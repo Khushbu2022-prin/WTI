@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
+<?php include('header.php')?>
         
         
         <section class="main-slider">
@@ -831,5 +831,5 @@ from all possible fraudulent transactions
         </section>
 
 
-        <?php include('footer.php') ?>
+        <? php include('footer.php') ?>
        

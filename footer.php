@@ -49,55 +49,61 @@
                             <div class="footer-widget__column footer-widget__explore clearfix">
                                 <h3 class="footer-widget__title">About</h3>
                                 <ul class="footer-widget__explore-list list-unstyled">
-                                    <li><a href="why-us.html">Why Us</a></li>
-                                    <li><a href="security-measures.html">Security Measures</a></li>
-                                    <li><a href="testimonials.html">Testimonials</a></li>
-                                    <li><a href="faq.html">FAQ</a></li>
+                                    <li><a href="why-us.php">Why Us</a></li>
+                                    <li><a href="legal-documentation.php">Legal Documentation</a></li>
+                                    <li><a href="testimonials.php">Testimonials</a></li>
+                                    <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                                    <li><a href="risk-disclaimer.php">Risk Disclaimer</a></li><li><a href="security-measures.html">Security Measures</a></li>
+                                    <li><a href="terms-conditions.php">Terms & Conditions</a></li>
+                                    
                                 </ul>
                             </div>
                             <div class="footer-widget__column footer-widget__explore clearfix">
                                 <h3 class="footer-widget__title" style="margin-top: 20px;">Platforms</h3>
                                 <ul class="footer-widget__explore-list list-unstyled">
-                                    <li><a href="meta-trader.html">Meta Trader</a></li>
-                                    <li><a href="mt4-mobile.html">MT4 Mobile</a></li>
-                                    <li><a href="mt5-desktop.html">MT4 Desktop</a></li>
+                                    <li><a href="meta-trader.php">Meta Trader</a></li>
+                                    <li><a href="mt4-mobile.php">MT4 Mobile</a></li>
+                                    <li><a href="mt5-desktop.php">MT4 Desktop</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__column footer-widget__explore clearfix" >
-                                <h3 class="footer-widget__title">Offers</h3>
+                                <h3 class="footer-widget__title">Partners</h3>
                                 <ul class="footer-widget__explore-list list-unstyled">
-                                    <li><a href="introducing-broker.html">Introducing Broker</a></li>
-                                    <li><a href="affiliates.html">Affiliates</a></li>
-                                    <li><a href="money-managers.html">Money Managers</a></li>
-                                    <li><a href="reference-program.html">Reference Program</a></li>
+                                    <li><a href="iB-program.php">IB Program</a></li>
+                                    <li><a href="channel-partners.php">Channel Partners</a></li>
+                                    <li><a href="become-an-iB.php">Become an IB</a></li>
+                                    
                                 </ul>
                             </div>
                             <div class="footer-widget__column footer-widget__explore clearfix">
-                                <h3 class="footer-widget__title" style="margin-top: 20px;">Analytics</h3>
+                                <h3 class="footer-widget__title" style="margin-top: 20px;">Accounts</h3>
                                 <ul class="footer-widget__explore-list list-unstyled">
-                                    <li><a href="economic-calendar.html">Economic Calendar</a></li>
-                                    <li><a href="market-heap-map.html">Market Heap Map</a></li>
-                                    <li><a href="currency-converter.html">Currency Converter</a></li>
-                                    <li><a href="pivot-point.html">Pivot Point</a></li>
-                                    <li><a href="traders-room.html">Trader's Room</a></li>
+                                    <li><a href="micro-account.php">Micro Account</a></li>
+                                    <li><a href="mini-account.php">Mini Account</a></li>
+                                    <li><a href="prime-account.php">Prime Account</a></li>
+                                    <li><a href="luxury-account.php">Luxury Account</a></li>
+                                    <li><a href="islamic-account.php">Islamic Account</a></li>
+                                    <li><a href="deposit-method.php">Deposit Method</a></li>
+                                    <li><a href="withdrawal-method.php">Withdrawal Method</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__column footer-widget__explore ">
-                                <h3 class="footer-widget__title">Trade</h3>
+                                <h3 class="footer-widget__title">Platforms & Trading tools</h3>
                                 <ul class="footer-widget__explore-list list-unstyled">
-                                    <li><a href="account-types.html">Account Types</a></li>
-                                    <li><a href="deposit-withdrawal.html">Deposit & Withdrawal</a></li>
-                                    <li><a href="trading-calculator.html">Trading Calculator</a></li>
-                                   <h2 class="footer-widget__title2">CFD Products</h2>
-                                   <li><a href="crypto.html">Crypto</a></li>
-                                   <li><a href="forex.html">Forex</a></li>
+                                    <li><a href="metaTrader-5-windows.php">MetaTrader 5(Windows)</a></li>
+                                    <li><a href="metaTrader-5-mobile.php">MetaTrader 5(Mobile)</a></li>
+                                    <li><a href="economic-calendar.php">Economic Calendar</a></li>
+                                    <li><a href="charts.php">Charts</a></li>
+                                   <h2 class="footer-widget__title2">Education</h2>
+                                   <li><a href="glossary.php">Glossary</a></li>
+                                   <li><a href="forex.php">Forex</a></li>
                                    <h2 class="footer-widget__title2">CFD Instruments</h2>
-                                   <li><a href="metals.html">Metals</a></li>
-                                   <li><a href="energy.html">Energy</a></li>
+                                   <li><a href="metals.php">Metals</a></li>
+                                   <li><a href="energy.php">Energy</a></li>
                                 </ul>
                             </div>
                         </div>
