@@ -526,7 +526,7 @@ body.boxed-wrapper {
 
 .main-menu .main-menu__list>li+li,
 .stricky-header .main-menu__list>li+li {
-    margin-left: 64px;
+    margin-left: 42px;
 }
 
 .main-menu .main-menu__list>li>a,
@@ -9331,4 +9331,9 @@ body.boxed-wrapper {
     text-transform: uppercase;
     color: var(--thm-black);
     padding-left: 10px;
+}
+.contact-btn a{
+    background-color: #3c72fc;
+    padding: 6px;
+    border-radius: 8px;
 }
