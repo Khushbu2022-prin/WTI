@@ -68,7 +68,14 @@
                                             </div>
                                         </div>
                                     </div>
-                                  
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Your Subject" name="subject">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-envelope"></i>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-xl-12">

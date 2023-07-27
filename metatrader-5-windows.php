@@ -24,13 +24,47 @@
             </div>
         </div>
     </section>
-    <section>
-        <div class="container" style="padding-top: 70px;">
-            <div class="welcome-one__right">
-                <h2 class="welcome-one__title">METATRADER 5(windows)</h2>
-                <p class="welcome-one__text">
-                MetaTrader 5 (MT5) for Windows is a powerful and widely used trading platform designed for trading in various financial markets, including forex, stocks, commodities, and cryptocurrencies. It is the successor to MetaTrader 4 and offers a range of features and tools to meet the needs of both novice and experienced traders.
-                </p>
+
+    <section class="welcome-one">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome-one__left">
+                        <div class="welcome-one__img-box">
+                            <div class="welcome-one__img-1">
+                                <img src="assets/images/resources/about-2.jpg" alt="" />
+                            </div>
+                            <div class="welcome-one__img-2">
+                                <img src="assets/images/resources/about-1.jpg" alt=""  width="350" height="311"/>
+                            </div>
+                            <a href="https://www.youtube.com/watch?v=i9E_Blai8vk"
+                                class="welcome-one__video-btn video-popup">
+                                <div class="welcome-one__video-btn-icon">
+                                    <i class="fa fa-play"></i>
+                                    <span class="ripple"></span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome-one__right">
+                        <h2 class="welcome-one__title">METATRADER 5(WINDOWS)</h2>
+                        <p class="welcome-one__text">
+                        MetaTrader 5 (MT5) for Windows is like having a powerful trading powerhouse right on your desktop. It's designed to cater to the diverse needs of traders across different financial markets, providing a seamless and feature-rich experience.</p>
+                        <p class="welcome-one__text">
+                        With MT5, you can access a wide array of financial instruments, from forex pairs to stocks, commodities, indices, and cryptocurrencies, all within a single platform. The advanced charting tools and extensive technical indicators empower you to analyze market trends and make informed trading decisions.
+                        </p>
+                        <p class="welcome-one__text">
+                        Flexibility is a key strength of MT5. You can place various order types, including market orders for instant execution and pending orders for precise entry and exit points. Automated trading enthusiasts will love the ability to create or use Expert Advisors (EAs) to execute trades automatically based on pre-defined conditions.
+                        </p>
+                        <p class="welcome-one__text">
+                        MT5's strategy tester is a valuable tool to fine-tune your trading strategies. By backtesting against historical data, you can gauge the performance of your strategies and optimize them for better results.</p>
+                        </div>
+                       
+                        <div class="welcome-one__big-text">WTI</div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

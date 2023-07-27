@@ -24,16 +24,52 @@
             </div>
         </div>
     </section>
-    <section>
-        <div class="container" style="padding-top: 70px;">
-            <div class="welcome-one__right">
-                <h2 class="welcome-one__title">METATRADER 5(MOBILE)</h2>
-                <p class="welcome-one__text">
-                    MetaTrader 5 (Mobile) is a popular mobile trading platform for Android and iOS. It offers a user-friendly interface, real-time price quotes, advanced charting tools, and various order types. Traders can manage accounts, set alerts, and access a wide range of financial instruments. Security features and multi-language support enhance the overall trading experience.
-                </p>
+    <section class="welcome-one" style="margin-bottom: -100px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome-one__left">
+                        <div class="welcome-one__img-box">
+                            <div class="welcome-one__img-1">
+                                <img src="assets/images/resources/about-2.jpg" alt="" />
+                            </div>
+                            <div class="welcome-one__img-2">
+                                <img src="assets/images/resources/about-1.jpg" alt=""  width="350" height="311"/>
+                            </div>
+                            <a href="https://www.youtube.com/watch?v=i9E_Blai8vk"
+                                class="welcome-one__video-btn video-popup">
+                                <div class="welcome-one__video-btn-icon">
+                                    <i class="fa fa-play"></i>
+                                    <span class="ripple"></span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome-one__right">
+                        <h2 class="welcome-one__title">METATRADER 5(MOBILE)</h2>
+                        <p class="welcome-one__text">
+                            MetaTrader 5 (MT5) Mobile is like having a powerful trading platform right in the palm of your hand. It's specially designed for Android and iOS devices, allowing traders to access the financial markets from anywhere, at any time.
+                        </p>
+                        <p class="welcome-one__text">
+                            With its user-friendly interface, MT5 Mobile makes trading on the go a breeze. You can trade a wide variety of assets, including forex, stocks, commodities, indices, and cryptocurrencies, all from your mobile device. Real-time quotes keep you up-to-date with market prices, while interactive charts and technical indicators help you analyze market trends.
+                        </p>
+                        <p class="welcome-one__text">
+                            Executing trades is simple with the different order types available, such as market orders or pending orders. You can also manage your trading accounts, view your balances, and keep track of your transaction history directly from the app.
+                        </p>
+                        <p class="welcome-one__text">
+                            Never miss an important market event with the integrated economic calendar that alerts you about upcoming economic news releases. And for added security, your data and transactions are protected with advanced encryption technology.
+                        </p>
+                        </div>
+                       
+                        <div class="welcome-one__big-text">WTI</div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
+    
 
     <section class="real-world" style="background-color: #FFF">
         <div class="real-world-shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms" style="
