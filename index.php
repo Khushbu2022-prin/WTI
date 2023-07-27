@@ -28,15 +28,13 @@
                         <div class="main-slider-shape-5"></div>
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-8">
+                                <div class="col-lg-10">
                                     <div class="main-slider__content">
-                                        <p>Aivons Webtrader</p>
+                                        <p>WTI Primes Webtrader</p>
                                         <h2>
-                                            The crypto- <br />
-                                            first trading <br />
-                                            experinence
+                                        Leaders in zero-commission trading platforms
                                         </h2>
-                                        <a href="about.html" class="thm-btn">Sneak Peek</a>
+                                        <a href="open-an-account.php" class="thm-btn">Open An Account</a>
                                     </div>
                                 </div>
                             </div>
@@ -54,15 +52,14 @@
                         <div class="main-slider-shape-5"></div>
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-8">
+                                <div class="col-lg-10">
                                     <div class="main-slider__content">
                                         <p>About Us</p>
                                         <h2>
-                                            Why Should  <br />
-                                            you trust <br />
-                                            us?
+                                        Trade the markets with the best trading conditions
+
                                         </h2>
-                                        <a href="why-us.html" class="thm-btn">Optionally Click here</a>
+                                        <a href="#" class="thm-btn">Download MT5 Platform</a>
                                     </div>
                                 </div>
                             </div>
@@ -79,15 +76,15 @@
                         <div class="main-slider-shape-5"></div>
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-8">
+                                <div class="col-lg-10">
                                     <div class="main-slider__content">
-                                        <p>welcome to aivons </p>
+                                        <p>welcome to WTI Primes </p>
                                         <h2>
-                                            Trading <br />
-                                            Platform for  <br />
+                                            Trading 
+                                            Platform for 
                                             real traders
                                         </h2>
-                                        <a href="about.html" class="thm-btn">Are you one?</a>
+                                        <a href="contact-us.php" class="thm-btn">Are you one?</a>
                                     </div>
                                 </div>
                             </div>
@@ -153,18 +150,17 @@
           "></div>
             <div class="container">
                 <div class="section-title text-center">
-                    <h2 class="section-title__title">Advantages</h2>
-                    <span class="section-title__tagline">Our clients receive only
-                        the best possible conditions</span>
+                    <h2 class="section-title__title">Why Trade with WTI PRIMES?</h2>
+                  
                 </div>
                 <div class="row">
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="real-world__single">
                             <h2 class="real-world__title">
-                                <a >Unique Trading <br />
-                                    Platform </a>
+                                <a >Multi-Asset  
+                                Platform </a>
                             </h2>
-                            <a href="Contact-us.html" class="real-world__btn">Contact Us</a>
+                            <p>Trade over 10,000 instruments covering stocks, crypto, forex, commodities and more</p>
                             <div class="real-world__icon-box">
                                 <span class="icon-wealth"></span>
                             </div>
@@ -173,11 +169,9 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="real-world__single">
                             <h2 class="real-world__title">
-                                <a >Free Market
-                                    <br />
-                                    Analysis </a>
+                                <a >Top Shelf Trading Environment </a>
                             </h2>
-                            <a href="contact-us.html" class="real-world__btn">Contact Us</a>
+                            <p>Enjoy top-shelf trading conditions, with costs that beat 80% of our peers</p>
                             <div class="real-world__icon-box">
                                 <span class="icon-data-analytics"></span>
                             </div>
@@ -186,16 +180,53 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="real-world__single">
                             <h2 class="real-world__title">
-                                <a >Welcome
-                                     <br />
-                                     Bonus</a>
+                                <a >Veteran Expertise
                             </h2>
-                            <a href="contact-us.html" class="real-world__btn">Contact Us</a>
+                           <p>WTI Primes team consists of trading veterans with a deep, first-hand understanding of markets</p>
                             <div class="real-world__icon-box">
                                 <span class="icon-report"></span>
                             </div>
                         </div>
                     </div>
+                    
+                    
+                </div>
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="real-world__single">
+                            <h2 class="real-world__title">
+                                <a >Experience-Driven Innovation </a>
+                            </h2>
+                            <p>WTI Markets product developers aren’t just technical experts – they're traders who’ve been in the trenches themselves</p>
+                            <div class="real-world__icon-box">
+                                <span class="icon-wealth"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                        <div class="real-world__single">
+                            <h2 class="real-world__title">
+                                <a >Advanced Trading Tools</a>
+                            </h2>
+                            <p>Cutting-edge trading tools developed by an in-house team to drive the success of traders at all levels</p>
+                            <div class="real-world__icon-box">
+                                <span class="icon-data-analytics"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="real-world__single">
+                            <h2 class="real-world__title">
+                                <a >Fully Regulated Brokerage</a>
+                            </h2>
+                           <p>We’re licensed and fully compliant across multiple jurisdictions to ensure the highest levels of integrity</p>
+                            <div class="real-world__icon-box">
+                                <span class="icon-report"></span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
                 </div>
             </div>
         </section>
@@ -287,13 +318,18 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="welcome-one__right">
-                            <h2 class="welcome-one__title">Why Choose Our <br> Investment Platform ?</h2>
+                            <h2 class="welcome-one__title">Trade Forex on our award-winning trading platform</h2>
                             <p class="welcome-one__text">
-                                Forex means a foreign exchange market in which currencies belonging to different countries can be mutually mentioned and sold. The word was derived from the abbreviation of the English words 'Foreign Exchange'. The global forex market has a trading volume of $ 5.5 trillion on a daily basis. In this sense, it is the most financial market in the world.
+                                WTI Primes is our powerful yet easy-to-use platform. Trade from PC, Mac, tablet or smartphone.
                             </p>
                             <p class="welcome-one__text-two">
-                                Many advantages are offered to investors in Forex trading.
+                                Powerful FX trading tools
                             </p>
+                            <p>Benefit from extensive charting with 50+ technical indicators, integrated Trade Signals and innovative risk management tools.</p>
+                            <p class="welcome-one__text-two">
+                                Trade 185 FX spot pairs and 130 forwards
+                            </p>
+                            <p>Fast and reliable access to our range of FX markets from your phone, tablet, laptop, or multi-screen desktop setup. From a single multi-currency account.</p>
                             <div class="welcome-one__progress">
                                 <div class="welcome-one__progress-single">
                                     <div class="bar">
@@ -312,16 +348,8 @@
                                     <h4 class="welcome-one__progress-title">Reliability</h4>
                                 </div>
                             </div>
-                            <div class="welcome-one__call">
-                                <div class="welcome-one__call-icon">
-                                    <span class="icon-phone-ringing"></span>
-                                </div>
-                                <div class="welcome-one__call-text">
-                                    <p>Have any question? Give us a call</p>
-                                    <a href="tel:+92-666-888-0000">+92 666 888 0000</a>
-                                </div>
-                            </div>
-                            <div class="welcome-one__big-text">aivons</div>
+                           
+                            <div class="welcome-one__big-text">WTI</div>
                         </div>
                     </div>
                 </div>
@@ -460,55 +488,72 @@
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
                                         <h4>
-                                            <span>.</span> How does the Algorithm work?
+                                            <span>.</span>What is Forex and how does Forex trading work?
                                         </h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                The Breakfree Trading Algorithm analyses market structure and recent price action to give you a number of high probability trade setups each day for you to browse and execute.
-                                            </p>
+                                                Forex trading (also commonly known as Foreign Exchange, currency or FX trading) is a global market for trading one country’s currency in exchange for another country's currency. It serves as the backbone of international trade and investment: imports and exports of goods and services; financial transactions by governments, economic institutions or individuals; global tourism and travel – all these require the use of capital in the form of swapping one currency for a certain amount of another currency.
+
+                                              <br>  When trading Forex CFDs, you are essentially speculating on the price changes in their exchange rate. For example, in the EUR/USD pair the value of one Euro (EUR) is determined in comparison to the US dollar (USD), and in the GBP/JPY pair the value of one British pound sterling (GBP) is quoted against the Japanese yen (JPY).
+                                                
+                                               <br> If you think the exchange rate will rise you can open a ‘Buy’ position. Conversely, if you think the exchange rate will fall you can open a ‘Sell’ position.
+                                                
+                                              <br>  To see a full list of currency pairs offered by Plus500, click here.                                            </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <h4><span>.</span> How much experience do I need to use it?</h4>
+                                        <h4><span>.</span> What economic factors may affect Forex rates?</h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                We have carefully designed our software so that even the newest trader can enter any market and place trades with the fundamental framework of a true professional. We have a complete library of training videos that will get you up to speed fast. It’s so intuitive that even a child could use Breakfree Trading.
-                                            </p>
+                                                Forex rates are impacted by an array of political and economic factors relating to the difference in value of a currency or economic region in comparison to another country's currency, such as the US dollar (USD) versus the Offshore Chinese yuan (CNH) – these are the currencies of the two largest economies in the world.
+
+                                              <br>  Among the factors that might influence Forex rates are the terms of trade, political relations and overall economic performance between the two countries or economic regions. This also includes their economic stability (for example GDP growth rate), interest and inflation rates, production of goods and services, and balance of payments.
+                                                
+                                               <br> To learn more, use our Economic Calendar to find real-time data on a wide range of events and releases that affect the Forex market.                                            </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
                                         <h4>
-                                            <span>.</span> How many trades per day does the algorithm find?
+                                            <span>.</span> How is trading Forex different from trading the stock market?
                                         </h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                The Breakfree Trading Algorithm will provide you with trades all the way down to the 15min time frame and if you’re a pro user you get access to every tradable asset on the Navigator (forex, equities, cryptocurrencies, metals, bonds, indices and commodities). Combine this with the Breakfree Trading Sonar and you will never run out of trades. 
-                                                ‍
-                                                Remember though;  it’s not about quantity, when it comes to trading, quality is everything
+                                                The 4 main differences between trading Forex and shares are: <br>
+
+<b>Trading volume –</b> the Forex market has a larger trading volume than the stock market. <br>
+<b>Instrument diversity –  </b>there are thousands of stocks to choose from, as opposed to several dozen currency pairs. <br>
+<b>Market volatility –</b> stock prices can fluctuate wildly from one day to the next, and their fluctuations are generally sharper than the ones found in Forex markets. <br>
+<b>Leverage ratios – </b>the available leverage for Forex CFDs on the Plus500 platform is 1:30, while the leverage for shares CFDs is 1:5. <br>
+Please note that when trading Forex or shares CFDs you do not actually own the underlying instrument, but are rather trading on their anticipated price change.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <h4><span>.</span> Is there anything else I get apart from the Algorithm?</h4>
+                                        <h4><span>.</span> What are the risks involved in Forex trading?</h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                1) Full access to our state of the art trading terminal, the Breakfree Trading Navigator. This is a trading platform designed for convenience with charting, risk management, trade execution and technical analysis software all in one place. Built by traders, for traders.
-                                                2) The Breakfree Trading Algorithm, our tech driven answer to consistent and profitable trading in the 21st century.
-                                                3) The Breakfree Trading Community. A group of over 5,000  highly motivated and like minded individuals that sits at the core of everything we do at Breakfree Trading… Don’t worry once you’re in you will know what we mean.
+                                                Foreign Exchange trading has a number of risks that you should be aware of before opening a position. These include:
+
+                                              <br>  <b>Risks related to leverage –</b> in volatile market conditions, leveraged trading can result in greater losses (as well as greater capital gains).
+                                              <br>  <b>Risks related to the issuing country –</b> the political and economic stability of a country can affect its currency strength. In general, currencies from major economies have greater liquidity and generally lower volatility than those of developing countries.
+                                              <br>  <b>Risks related to interest rates –</b> countries’ interest rate policy has a major effect on their exchange rates. When a country raises or lowers interest rates, its currency will usually rise or fall as a result.
+                                               <br> We offer risk management tools that can help you minimise your trading risks.
+                                                
+                                               <br> If you're ready to start trading Forex with Plus500, click here.
                                             </p>
                                         </div>
                                     </div>
@@ -529,7 +574,7 @@
                                                 <span class="icon-tick"></span>
                                             </div>
                                             <div class="text">
-                                                <p>Nsectetur cing elit.</p>
+                                                <p>Easy to use, fully customisable</p>
                                             </div>
                                         </li>
                                         <li>
@@ -537,7 +582,7 @@
                                                 <span class="icon-tick"></span>
                                             </div>
                                             <div class="text">
-                                                <p>Suspe ndisse suscipit sagittis leo.</p>
+                                                <p>Superior execution speeds</p>
                                             </div>
                                         </li>
                                         <li>
@@ -545,7 +590,7 @@
                                                 <span class="icon-tick"></span>
                                             </div>
                                             <div class="text">
-                                                <p>Entum estibulum dignissim posuere.</p>
+                                                <p>Trader's calculator, performance statistics, sentiment</p>
                                             </div>
                                         </li>
                                         <li>
@@ -553,17 +598,10 @@
                                                 <span class="icon-tick"></span>
                                             </div>
                                             <div class="text">
-                                                <p>If you are going to use a passage.</p>
+                                                <p>Charts trading, market order depth</p>
                                             </div>
                                         </li>
-                                        <li>
-                                            <div class="icon">
-                                                <span class="icon-tick"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>Lorem Ipsum on the tend to repeat.</p>
-                                            </div>
-                                        </li>
+                                       
                                     </ul>
                                 </div>
                                 <div class="faq-one__experience-box">
@@ -597,7 +635,7 @@
                             <div class="testimonials-one__carousel owl-theme owl-carousel">
                                 <div class="testimonials-one__single">
                                     <p class="testimonials-one__text">
-                                        I have not been a consistent trader till i found Breakfree Trading. The 'Xmode' allow us to see where are the important level for our trade entry set up and profit target.
+                                        I have not been a consistent trader till i found Breakfree Trading. The 'WTI Primes' allow us to see where are the important level for our trade entry set up and profit target.
                                     </p>
                                     <div class="testimonials-one__client-info">
                                         <h5 class="testimonials-one__client-name">
@@ -625,7 +663,7 @@
                                 </div>
                                 <div class="testimonials-one__single">
                                     <p class="testimonials-one__text">
-                                        The wide range of assets provided by BR Stone is something that attracted my attention when I was choosing a broker for my Forex trading. A big thank you to BFT, you guys rock... :)
+                                        The wide range of assets provided by WTI Primes is something that attracted my attention when I was choosing a broker for my Forex trading. A big thank you to WTI Primes, you guys rock... :)
                                     </p>
                                     <div class="testimonials-one__client-info">
                                         <h5 class="testimonials-one__client-name">
@@ -670,7 +708,7 @@
                                 </div>
                                 <div class="testimonials-one__single">
                                     <p class="testimonials-one__text">
-                                        Hey my pleasure, enjoying your platform. Definitely the best BTC broker I've found for FX!
+                                        Hey my pleasure, enjoying your platform. Definitely the best BTC broker I've found for WTI Primes!
                                     </p>
                                     <div class="testimonials-one__client-info">
                                         <h5 class="testimonials-one__client-name">
@@ -694,13 +732,15 @@
             background-image: url(assets/images/backgrounds/counter-one-bg.jpg);
           "></div>
             <div class="container">
+                <h2 class="text-white " style="padding-top: 50px;text-align: center;">SUPERIORITY</h2>
+                <p style="padding-top: 5px;text-align: center;font-size: 25px;">proven in numbers</p>
                 <ul class="counters-one__box list-unstyled">
                     <li class="counter-one__single">
                         <div class="counter-one__icon">
                             <span class="icon-video"></span>
                         </div>
-                        <h3 class="odometer" data-count="52">00</h3>
-                        <p class="counter-one__text">Countries Of Client</p>
+                        <h3 class="odometer" data-count="200">00 </h3>
+                        <p class="counter-one__text">COUNTRIES SERVICED</p>
                     </li>
                     <li class="counter-one__single">
                         <div class="counter-one__icon">
@@ -714,17 +754,17 @@
                         <div class="counter-one__icon">
                             <span class="icon-customer-review"></span>
                         </div>
-                        <h3 class="odometer" data-count="20">00</h3>
-                        <p class="counter-one__text">years on
-                            the financial
-                            markets</p>
+                        <h3 class="odometer" data-count="25">00</h3>
+                        <p class="counter-one__text">
+                           
+                            Industry Excellence Awards</p>
                     </li>
                     <li class="counter-one__single">
                         <div class="counter-one__icon">
                             <span class="icon-consultant"></span>
                         </div>
-                        <h3 class="odometer" data-count="1904">00</h3>
-                        <p class="counter-one__text">INVESTOR</p>
+                        <h3 class="odometer" data-count="40">00</h3>
+                        <p class="counter-one__text">Years of Experience</p>
                     </li>
                 </ul>
             </div>
@@ -732,8 +772,8 @@
         <section class="news-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2 class="section-title__title">Online trading </h2>
-                    <span class="section-title__tagline">And investing with a trusted firm</span>
+                    <h2 class="section-title__title">WHY TRADE WITH WTI PRIMES </h2>
+                    <span class="section-title__tagline">All your online trading needs in one hi-tech dashboard</span>
                 </div>
                 <div class="row">
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
@@ -746,13 +786,13 @@
                             </div>
                             <div class="news-one__content">
                                 <h3 class="news-one__title">
-                                    <a >EASY</a>
+                                    <a >Costs kept low</a>
                                 </h3>
                                 <p class="news-one__text">
-                                    Online Trading and Investing
+                                    $0 platform fees, leverage up to 1:2000 and spreads from 0.0 pips*.
 with a trusted firm
                                 </p>
-                                <a href="#" class="news-one__btn" style="padding-top: 14%;">Read More</a>
+                                <a href="account-types.php" class="news-one__btn" style="padding-top: 14%;">Trading accounts</a>
                                 <div class="news-one__date-box">
                                     <i class="uil uil-lightbulb"></i>
                                 </div>
@@ -769,13 +809,12 @@ with a trusted firm
                             </div>
                             <div class="news-one__content">
                                 <h3 class="news-one__title">
-                                    <a href="#">Safe</a>
+                                    <a href="#">Hi-tech trades</a>
                                 </h3>
                                 <p class="news-one__text">
-                                    You can use the application from any device,
-being anywhere in the world
+                                    Trade confidently with professional analysis on MT5’s powerful platform.
                                 </p>
-                                <a href="#" class="news-one__btn">Read More</a>
+                                <a href="metatrader-5(windows).php" class="news-one__btn">MetaTrader 5</a>
                                 <div class="news-one__date-box">
                                     <i class="uil uil-shield-check"></i>
                                 </div>
@@ -792,13 +831,12 @@ being anywhere in the world
                             </div>
                             <div class="news-one__content">
                                 <h3 class="news-one__title">
-                                    <a href="#">Fast</a>
+                                    <a href="#">Extra perks</a>
                                 </h3>
                                 <p class="news-one__text">
-                                    We use SSL certificates to protect personal data
-from all possible fraudulent transactions
+                                    24/6 customer support, on-hand experts, eResources and events.
                                 </p>
-                                <a href="#" class="news-one__btn">Read More</a>
+                                <a href="why-us.php" class="news-one__btn">About WTI Primes</a>
                                 <div class="news-one__date-box">
                                     <i class="uil uil-bolt"></i>
                                 </div>
@@ -818,11 +856,12 @@ from all possible fraudulent transactions
                         <div class="cta-one__inner">
                             <div class="cta-one__left">
                                 <h2 class="cta-one__title">
-                                    Calculate the overall profit <br> from Forex trading 
+                                    Get started for free
                                 </h2>
+                                <p style="font-size: 25px;color: white;">Getting started is easy and free for 30 days, it takes only few minutes to setup.</p>
                             </div>
                             <div class="cta-one__right">
-                                <a href="contact-us.html" class="thm-btn cta-one__btn">Contact Us</a>
+                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
                             </div>
                         </div>
                     </div>
