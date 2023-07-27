@@ -9332,3 +9332,6 @@ body.boxed-wrapper {
     color: var(--thm-black);
     padding-left: 10px;
 }
+.main-menu-wrapper__logo a img{
+    width:300px;
+}

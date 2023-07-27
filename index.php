@@ -30,7 +30,7 @@
                             <div class="row">
                                 <div class="col-lg-8">
                                     <div class="main-slider__content">
-                                        <p>Aivons Webtrader</p>
+                                        <p>WTI Primes Webtrader</p>
                                         <h2>
                                             The crypto- <br />
                                             first trading <br />

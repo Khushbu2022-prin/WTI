@@ -46,7 +46,7 @@
                 <div class="main-menu-wrapper">
                     <div class="main-menu-wrapper__left">
                         <div class="main-menu-wrapper__logo">
-                            <a href="index.html"><img src="assets/images/logo-1.png" alt="" /></a>
+                            <a href="index.html"><img src="assets/images/logo-1.png" alt="" width="200" /></a>
                         </div>
                         <div class="main-menu-wrapper__main-menu">
                             <a href="#" class="mobile-nav__toggler">
