@@ -831,5 +831,5 @@ from all possible fraudulent transactions
         </section>
 
 
-        <? php include('footer.php') ?>
+        <?php include('footer.php') ?>
        
