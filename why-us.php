@@ -19,14 +19,16 @@
                 <ul class="thm-breadcrumb list-unstyled">
                     <li><a href="index.html">Home</a></li>
                     <li><span>/</span></li>
+
                     <li>About Us</li>
+
                 </ul>
                 <h2>Why Us</h2>
             </div>
         </div>
     </section>
     <!--Page Header End-->
-    
+
     <section class="about">
         <div class="container">
             <div class="row">
@@ -49,38 +51,7 @@
                             </div>
                         </div>
                         <p class="about__right-text">We collaborate with Top Tier-1 banks to provide our clients with a deep pool of liquidity and tight spreads as well as ultra-fast execution with no requotes offered by our No Dealing Desk (NDD) model.</p>
-                        <!-- <div class="listen__progress-wrap">
-                            <div class="listen__progress">
-                                <div class="listen__progress-box">
-                                    <div class="circle-progress"
-                                        data-options='{ "value": 0.9,"thickness": 3,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
-                                    </div>
-                                    <span>90%</span>
-                                </div>
-                                <div class="listen__progress-content">
-                                    <h3>Affordable Cost</h3>
-                                </div>
-                            </div>
-                            <div class="listen__progress">
-                                <div class="listen__progress-box">
-                                    <div class="circle-progress"
-                                        data-options='{ "value": 0.5,"thickness": 3,"emptyFill": "#f2f4f8","lineCap": "square", "size": 112, "fill": { "color": "#3c72fc" } }'>
-                                    </div>
-                                    <span>50%</span>
-                                </div>
-                                <div class="listen__progress-content">
-                                    <h3>Quality of Work</h3>
-                                </div>
-                            </div>
-                        </div> -->
-                        <div class="about__phone-contact">
-                            <div class="about__phone-contact-icon">
-                                <span class="icon-phone-ringing"></span>
-                            </div>
-                            <div class="about__phone-contact-text">
-                                <p>Have any question? Give us a call</p>
-                                <a href="tel:+92-666-888-0000">+92 666 888 0000</a>
-                            </div>
+
                         </div>
                       
                     </div>
@@ -326,5 +297,7 @@
     <script src="../../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit"></script>
     <script src="assets/js/color-switcher.js"></script>
 
+
      <?php include('footer.php') ?> 
+
 
