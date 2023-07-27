@@ -20,9 +20,8 @@
                     <li><span>/</span></li>
                     <li>PLATFORMS & TRADING TOOLS</li>
                 </ul>
-                <h2>Economic Calendar</h2>
+                <h2>MetaTrader 5(Windows)</h2>
             </div>
         </div>
     </section>
-    
 <?php include ("footer.php") ?>

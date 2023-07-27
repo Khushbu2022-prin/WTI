@@ -5,11 +5,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?php echo $title ?></title>
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Aivons HTML Template For Business Consulting" />
+    <link rel="icon" type="image/x-icon"  href="assets/images/favicons/png favicon-01.png" />
+    <meta name="description" content="" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" />
     <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
         rel="stylesheet" />
@@ -48,7 +45,7 @@
                 <div class="main-menu-wrapper">
                     <div class="main-menu-wrapper__left">
                         <div class="main-menu-wrapper__logo">
-                            <a href="index.php"><img src="assets/images/logo-1.png" alt="" /></a>
+                            <a href="index.php"><img src="assets/images/logo-1.png" alt=""  /></a>
                         </div>
                         <div class="main-menu-wrapper__main-menu">
                             <a href="#" class="mobile-nav__toggler">
@@ -73,11 +70,8 @@
                                 <li class="dropdown">
                                     <a href="#">Accounts</a>
                                     <ul>
-                                        <li><a href="micro-account.php">Micro Account</a></li>
-                                        <li><a href="mini-account.php">Mini Account</a></li>
-                                        <li><a href="prime-account.php">Prime Account</a></li>
-                                        <li><a href="luxury-account.php">Luxury Account</a></li>
-                                        <li><a href="islamic-account.php">Islamic Account</a></li>
+                                        <li><a href="account-types.php">Account Types</a></li>
+                                        
                                         <li><a href="deposit-method.php">Deposit Method</a></li>
                                         <li><a href="withdrawal-method.php">Withdrawal Method</a></li>
                                     </ul>
