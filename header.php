@@ -35,6 +35,7 @@
     <link rel="stylesheet" id="jssMode" href="assets/css/modes/aivons-normal.css" />
     <link rel="stylesheet" href="assets/css/aivons-toolbar.css" />
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link rel="stylesheet" href="assets/css/price.css" />
 </head>
 
 <body>
