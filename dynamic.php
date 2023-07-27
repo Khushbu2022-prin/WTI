@@ -78,25 +78,25 @@ switch ($menuactive) {
         $title = "ib program";
         break;
 
-        case 'channel-partners.php':
-            $title = "channel partners";
-            break;
+    case 'channel-partners.php':
+        $title = "channel partners";
+        break;
 
-            case 'become-an-ib.php':
-                $title = "become an ib";
-                break;
+    case 'become-an-ib.php':
+        $title = "become an ib";
+        break;
 
-                case 'education.php':
-                    $title = "education";
-                    break;
+    case 'education.php':
+        $title = "education";
+        break;
 
-                    case 'glossary.php':
-                        $title = "glossary";
-                        break;
+    case 'glossary.php':
+        $title = "glossary";
+        break;
 
-                        case 'contact-us.php':
-                            $title = "contact us";
-                            break;
+    case 'contact-us.php':
+        $title = "contact us";
+        break;
 
 
 
