@@ -19,16 +19,13 @@
                 <ul class="thm-breadcrumb list-unstyled">
                     <li><a href="index.html">Home</a></li>
                     <li><span>/</span></li>
-
-                    <li>About Us</li>
-
+                    <li>About</li>
                 </ul>
                 <h2>Why Us</h2>
             </div>
         </div>
     </section>
     <!--Page Header End-->
-
     <section class="about">
         <div class="container">
             <div class="row">
@@ -51,7 +48,27 @@
                             </div>
                         </div>
                         <p class="about__right-text">We collaborate with Top Tier-1 banks to provide our clients with a deep pool of liquidity and tight spreads as well as ultra-fast execution with no requotes offered by our No Dealing Desk (NDD) model.</p>
-
+                        <div class="listen__progress-wrap">
+                            <div class="listen__progress">
+                                <div class="listen__progress-box">
+                                    <div class="circle-progress" data-options="{ &quot;value&quot;: 0.9,&quot;thickness&quot;: 3,&quot;emptyFill&quot;: &quot;#f2f4f8&quot;,&quot;lineCap&quot;: &quot;square&quot;, &quot;size&quot;: 112, &quot;fill&quot;: { &quot;color&quot;: &quot;#3c72fc&quot; } }"><canvas width="112" height="112"></canvas>
+                                    </div><!-- /.circle-progress -->
+                                    <span>90%</span>
+                                </div>
+                                <div class="listen__progress-content">
+                                    <h3>Affordable Cost</h3>
+                                </div>
+                            </div>
+                            <div class="listen__progress">
+                                <div class="listen__progress-box">
+                                    <div class="circle-progress" data-options="{ &quot;value&quot;: 0.5,&quot;thickness&quot;: 3,&quot;emptyFill&quot;: &quot;#f2f4f8&quot;,&quot;lineCap&quot;: &quot;square&quot;, &quot;size&quot;: 112, &quot;fill&quot;: { &quot;color&quot;: &quot;#3c72fc&quot; } }"><canvas width="112" height="112"></canvas>
+                                    </div><!-- /.circle-progress -->
+                                    <span>50%</span>
+                                </div><!-- /.about-five__progress-box -->
+                                <div class="listen__progress-content">
+                                    <h3>Quality of Work</h3>
+                                </div>
+                            </div>
                         </div>
                       
                     </div>
@@ -297,7 +314,5 @@
     <script src="../../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit"></script>
     <script src="assets/js/color-switcher.js"></script>
 
-
      <?php include('footer.php') ?> 
-
 
