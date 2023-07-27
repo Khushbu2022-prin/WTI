@@ -7,11 +7,10 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
-                                    <a href="index.html"><img src="assets/images/footer-logo.png" alt="" /></a>
+                                    <a href="index.html"><img src="assets/images/logo-1.png" alt="" width="342" height="85" style="margin-left:-20px"/></a>
                                 </div>
                                 <p class="footer-widget__text">
-                                    Welcome to our consultancy agency. Lore ipsum simply text
-                                    amet cing elit.
+                                Empowering Your Forex Journey: Unleash Your Trading Potential!
                                 </p>
                                 <ul class="list-unstyled footer-widget__contact-list">
                                     <li>
@@ -80,11 +79,8 @@
                             <div class="footer-widget__column footer-widget__explore clearfix">
                                 <h3 class="footer-widget__title" style="margin-top: 20px;">Accounts</h3>
                                 <ul class="footer-widget__explore-list list-unstyled">
-                                    <li><a href="micro-account.php">Micro Account</a></li>
-                                    <li><a href="mini-account.php">Mini Account</a></li>
-                                    <li><a href="prime-account.php">Prime Account</a></li>
-                                    <li><a href="luxury-account.php">Luxury Account</a></li>
-                                    <li><a href="islamic-account.php">Islamic Account</a></li>
+                                    <li><a href="account-types.php">Account Types</a></li>
+                                   
                                     <li><a href="deposit-method.php">Deposit Method</a></li>
                                     <li><a href="withdrawal-method.php">Withdrawal Method</a></li>
                                 </ul>
@@ -114,7 +110,7 @@
                         <div class="col-xl-12">
                             <div class="site-footer-bottom__inner">
                                 <div class="site-footer-bottom__left">
-                                    <p>© Copyright 2023 by <a href="#">forex.com</a></p>
+                                    <p>© 2023 <a href="index.php">WTI Primes</a> . All Rights Reserved. </p>
                                 </div>
                                 <div class="site-footer__social">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -141,7 +137,7 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@aivons.com</a>
+                    <a href="mailto:needhelp@packageName__.com">needhelp@wtiprimes.com</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
