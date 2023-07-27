@@ -41,13 +41,13 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="about__right">
-                        <h2 class="about__title">Why Choose Trade FX</h2>
+                        <h2 class="about__title">Why Choose WTI Prime</h2>
                         <div class="about__icon-box">
                             <div class="about__icon">
                                 <span class="icon-data-analytics"></span>
                             </div>
                             <div class="about__icon-text">
-                                <p>Trade FX is dedicated to providing excellence and transparency through our fully regulated brokerage service to our international clients with some of the most competitive spreads in the industry, and first-class professional support 24/5.</p>
+                                <p>WTI Prime is dedicated to providing excellence and transparency through our fully regulated brokerage service to our international clients with some of the most competitive spreads in the industry, and first-class professional support 24/5.</p>
                             </div>
                         </div>
                         <p class="about__right-text">We collaborate with Top Tier-1 banks to provide our clients with a deep pool of liquidity and tight spreads as well as ultra-fast execution with no requotes offered by our No Dealing Desk (NDD) model.</p>
