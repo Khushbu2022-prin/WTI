@@ -17,7 +17,7 @@
         <div class="container">
             <div class="page-header__inner">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><span>/</span></li>
                     <li>About Us</li>
                 </ul>
@@ -52,6 +52,28 @@
                             <br>
                                 <p>If you communicate with WTI Primes by e-mail, you should note that the security of Internet e-mail is uncertain. By sending sensitive or confidential e-mail messages which are not encrypted you accept the risks of such uncertainty and possible lack of confidentiality over the Internet. The Internet is not 100% safe and someone may be able to intercept and read your details.</p>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="cta-one">
+        <div class="cta-one-bg" style="
+        background-image: url(assets/images/backgrounds/cta-one-bg.png);
+      "></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="cta-one__inner row">
+                        <div class="cta-one__left col-lg-8">
+                            <h2 class="cta-one__title">
+                                Get in Touch with Us
+                            </h2>
+                            <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
+                        </div>
+                        <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                            <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
                         </div>
                     </div>
                 </div>
