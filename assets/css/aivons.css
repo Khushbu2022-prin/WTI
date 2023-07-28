@@ -365,6 +365,7 @@ body.boxed-wrapper {
     position: relative;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .main-menu-wrapper__left {
@@ -376,7 +377,7 @@ body.boxed-wrapper {
 .main-menu-wrapper__logo {
     position: relative;
     float: left;
-    /* padding: 40.5px 60px; */
+    padding: 8px 60px;
     padding-left: 0;
     border-right: 1px solid rgba(255, 255, 255, .15);
 }
@@ -9328,7 +9329,7 @@ body.boxed-wrapper {
     padding-left: 10px;
 }
 .main-menu-wrapper__logo a img{
-    width:342px;
+    
     height: 85px;
 }
 .contact-btn {
