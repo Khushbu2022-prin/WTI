@@ -17,7 +17,7 @@
         <div class="container">
             <div class="page-header__inner">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><span>/</span></li>
                     <li>PARTNERS</li>
                 </ul>
@@ -75,7 +75,6 @@
                             <h2 class="real-world__title">No Need for Licensing</h2>
                             <p style="color:aliceblue">IBs don't need to obtain individual licenses to offer brokerage services since they are not directly executing trades or managing funds.</p>
                             <br>
-                            <br>
                             <div class="real-world__icon-box">
                                 <span class="icon-data-analytics"></span>
                             </div>
@@ -100,6 +99,28 @@
                             <p style="color:aliceblue">Building a network of traders and investors can open doors to other business opportunities and collaborations within the financial industry.</p>
                             <div class="real-world__icon-box">
                                 <span class="icon-report"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="cta-one">
+            <div class="cta-one-bg" style="
+            background-image: url(assets/images/backgrounds/cta-one-bg.png);
+          "></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cta-one__inner row">
+                            <div class="cta-one__left col-lg-8">
+                                <h2 class="cta-one__title">
+                                    Get in Touch with Us
+                                </h2>
+                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
+                            </div>
+                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
                             </div>
                         </div>
                     </div>

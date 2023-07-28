@@ -16,7 +16,7 @@
         <div class="container">
             <div class="page-header__inner">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><span>/</span></li>
                     <li>PLATFORMS & TRADING TOOLS</li>
                 </ul>
@@ -63,7 +63,7 @@
                         </p>
                         </div>
                        
-                        <div class="welcome-one__big-text">WTI</div>
+                        <div class="welcome-one__big-text">WTI Prime</div>
                     </div>
                 </div>
             </div>
@@ -172,7 +172,32 @@
             </div>
         </div>
     </section>
+<<<<<<< HEAD
+    <section class="cta-one">
+            <div class="cta-one-bg" style="
+            background-image: url(assets/images/backgrounds/cta-one-bg.png);
+          "></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cta-one__inner row">
+                            <div class="cta-one__left col-lg-8">
+                                <h2 class="cta-one__title">
+                                    Get in Touch with Us
+                                </h2>
+                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
+                            </div>
+                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+=======
 
+>>>>>>> 6d657bcb4a0649ca66b50ed55ecb65c59435435c
 </div>
 
 <?php include("footer.php") ?>
