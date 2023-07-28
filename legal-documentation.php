@@ -52,9 +52,9 @@ leveraged products that involve a significant risk of loss</p>
 						<h3 class="industries__title"><a href="financial-advice.html">Fair <br> Treatment</a></h3>
                        
 						<p class="industries__text">Treating customers fairly is a core value at
-WTI Prime Primes</p>
+WTI Prime</p>
 <br>
-<a href="fair-treatment.php">Learn More</a>
+<a href="#">Learn More</a>
 <br>
                         <br>
 					</li>
