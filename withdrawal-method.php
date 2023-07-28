@@ -21,21 +21,160 @@
         </div>
       </section>
 <!--  -->
-<section>
-        <div class="container" style="padding-top: 70px;">
-            <div class="welcome-one__right">
-                <h2 class="welcome-one__title">Withdrawl Methods</h2>
-                <p class="welcome-one__text">
-                When it comes to forex websites, providing a variety of withdrawal methods is just as important as offering diverse deposit options.<br>
-                Traders need seamless and efficient ways to access their funds.<br>
-                At WTI Primes, we prioritize our traders' convenience and satisfaction.<br>We understand that accessing your funds promptly is crucial for your trading experience.<br>That's why we offer a range of swift and secure withdrawal methods to suit your needs.
-                </p>
+<section class="welcome-one">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="welcome-one__left">
+                            <div class="welcome-one__img-box">
+                                <div class="welcome-one__img-1">
+                                    <img src="assets/images/resources/about-2.jpg" alt="">
+                                </div>
+                                <div class="welcome-one__img-2">
+                                    <img src="assets/images/resources/about-1.jpg" alt="" width="350" height="311">
+                                </div>
+                                <a href="https://www.youtube.com/watch?v=i9E_Blai8vk" class="welcome-one__video-btn video-popup">
+                                    <div class="welcome-one__video-btn-icon">
+                                        <i class="fa fa-play"></i>
+                                        <span class="ripple"></span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="welcome-one__right">
+                            <h2 class="welcome-one__title">WITHDRAWAL Methods</h2>
+                            <p class="welcome-one__text">
+                            When it comes to forex websites, providing a variety of withdrawal methods is just as important as offering diverse deposit options.<br><br>
+Traders need seamless and efficient ways to access their funds.<br><br>
+At WTI Primes, we prioritize our traders' convenience and satisfaction.<br><br>
+We understand that accessing your funds promptly is crucial for your trading experience.<br><br>
+That's why we offer a range of swift and secure withdrawal methods to suit your needs.
+                            </p>
+                            
+                           
+                            <div class="welcome-one__big-text">WTI</div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
     <!--  -->
 
-<section class="faqs-page">
+    <section class="industries">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12">
+                        <div class="section-title text-left">
+                            <h2 class="section-title__title">How to make a withdrawal in 4 simple steps</h2>
+                            
+                        </div>
+                    </div>
+                    
+                </div>
+                <ul class="list-unstyled industries__content-box">
+                    <li class="industries__single wow fadeInUp animated counter-incr animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <div class="industries__icon industriews_logo01">
+                            <span class="logo01"></span>
+                        </div>
+                        <h3 class="industries__title"><a href="banking-advising.html"> </a></h3>
+                        <p class="industries__text">Login to WTI Primes and open the Withdraw page under ‘WITHDRAWAL METHOD’.</p>
+                    </li>
+                    <li class="industries__single wow fadeInUp animated counter-incr animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+                        <div class="industries__icon industriews_logo01">
+                            <span class="logo02"></span>
+                        </div>
+                        <h3 class="industries__title"><a href="business-growth.html"> </a></h3>
+                        <p class="industries__text">Choose your payment method and click ‘Withdraw’.<br><br><br></p>
+                    </li>
+                    <li class="industries__single wow fadeInUp animated counter-incr animated" data-wow-delay="600ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 600ms; animation-name: fadeInUp;">
+                        <div class="industries__icon industriews_logo01">
+                            <span class="logo03"></span>
+                        </div>
+                        <h3 class="industries__title"><a href="financial-advice.html"> </a></h3>
+                        <p class="industries__text">Choose the MyFXTM account or wallet you wish to withdraw funds from Account.<br><br></p>
+                    </li>
+                    <li class="industries__single wow fadeInUp animated counter-incr animated" data-wow-delay="900ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 900ms; animation-name: fadeInUp;">
+                        <div class="industries__icon industriews_logo01">
+                            <span class="logo04"></span>
+                        </div>
+                        <h3 class="industries__title"><a href="marketing-rule.html"> </a></h3>
+                        <p class="industries__text">Complete the necessary fields and click 'Submit.'<br><br><br></p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+<!--  -->
+<section class="message-box">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12">
+                        <div class="message-box__right">
+                            <form action="https://layerdrops.com/aivons/assets/inc/sendemail.php" class="comment-one__form contact-form-validated" novalidate="novalidate">
+                                <div class="row">
+                                    <div class="col-xl-12">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Your name" name="name">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-user-circle"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Email Address" name="email">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-envelope"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                             
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Phone No." name="phone">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-phone"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                              
+                                <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Skype ID" name="skype">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-skype"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Your Subject" name="subject">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-envelope"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xl-12">
+                                        <div class="comment-form__input-box">
+                                            <textarea name="subject" placeholder="Write Message"></textarea>
+                                            <div class="comment-form__icon contact-expert__icon-comment">
+                                                <i class="far fa-comment"></i>
+                                            </div>
+                                        </div>
+                                        <button type="submit" class="thm-btn comment-form__btn">Send a message</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+<!--  -->
+        <section class="faqs-page">
             <div class="container">
                 <div class="section-title text-center">
                     <h2 class="section-title__title">You've Got Questions?</h2>
