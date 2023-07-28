@@ -17,7 +17,7 @@
         <div class="container">
             <div class="page-header__inner">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><span>/</span></li>
                     <li>PARTNERS</li>
                 </ul>
@@ -25,9 +25,137 @@
             </div>
         </div>
     </section>
+
+    <section class="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="about__img-box">
+                        <div class="about-img">
+                            <img src="assets/images/resources/about-img-1.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="about__right">
+                        <h2 class="about__title">Why clients choose us</h2>
+                        <div class="about__icon-box">
+                            <div class="about__icon">
+                                <span class="icon-data-analytics"></span>
+                            </div>
+                            <div class="about__icon-text">
+                                <p>Our goal is to provide clients with the most favourable trading conditions:</p>
+                            </div>
+                        </div>
+                        <ul class="list-unstyled services-details__planning-list">
+                            <li>
+                                <div class="icon">
+                                    <span class="icon-tick"></span>
+                                </div>
+                                <div class="text">
+                                    <p>
+                                        Low spreads</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <span class="icon-tick"></span>
+                                </div>
+                                <div class="text">
+                                    <p>No trading fees</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <span class="icon-tick"></span>
+                                </div>
+                                <div class="text">
+                                    <p>50% deposit bonus</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <span class="icon-tick"></span>
+                                </div>
+                                <div class="text">
+                                    <p>
+                                        No swaps</p>
+                                </div>
+                            </li>
+                        </ul>
+                        </div>
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!--Page Header End-->
+    <section class="two-boxes">
+        <div class="container" style="padding-top: 120px;">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">Commission up to 80% spread revshare</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">Smooth daily commission payouts</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">Reputable broker with 60+ industry awards</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">More than 25 payment methods
+                                    <br>
+                                    <br>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="message-box">
             <div class="container">
+                <div class="text-center" style="margin: 20px 0;">
+                    <h2>Join IB broker program now!</h2>
+                </div>
                 <div class="row">
                     <div class="col-xl-12 col-lg-12">
                         <div class="message-box__right">
@@ -95,6 +223,28 @@
             </div>
         </section>
 
+        <section class="cta-one">
+            <div class="cta-one-bg" style="
+            background-image: url(assets/images/backgrounds/cta-one-bg.png);
+          "></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cta-one__inner row">
+                            <div class="cta-one__left col-lg-8">
+                                <h2 class="cta-one__title">
+                                    Get in Touch with Us
+                                </h2>
+                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
+                            </div>
+                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
 

@@ -12,7 +12,7 @@
         <div class="container">
           <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li><span>/</span></li>
               <li>Accounts</li>
             </ul>
@@ -62,7 +62,7 @@
                             </div>
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h4><span>.</span> What does WTIPrimes.com provide?</h4>
+                                    <h4><span>.</span> What does WTI PrimePrimes.com provide?</h4>
                                 </div>
                                 <div class="accrodion-content" style="">
                                     <div class="inner">
@@ -72,7 +72,7 @@
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4><span>.</span> Does member at MQL5 Community represent WTIPrimes.com?</h4>
+                                    <h4><span>.</span> Does member at MQL5 Community represent WTI PrimePrimes.com?</h4>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
@@ -209,7 +209,7 @@ On the other hand, bank or wire transfers may take a few business days. Checks a
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>At WTI Primes, we strive to make forex trading accessible and user-friendly. <br>Our diverse range of deposit methods ensures that you can choose the option that best suits your needs and preferences. <br>Rest assured, all transactions are secured by robust encryption protocols, providing you with peace of mind while trading with us. If you have any questions or need assistance with your deposit, our dedicated support team is ready to help.</p>
+                                        <p>At WTI Prime Primes, we strive to make forex trading accessible and user-friendly. <br>Our diverse range of deposit methods ensures that you can choose the option that best suits your needs and preferences. <br>Rest assured, all transactions are secured by robust encryption protocols, providing you with peace of mind while trading with us. If you have any questions or need assistance with your deposit, our dedicated support team is ready to help.</p>
                                     </div>
                                 </div>
 
@@ -220,5 +220,26 @@ On the other hand, bank or wire transfers may take a few business days. Checks a
                 </div>
             </div>
         </section>
-
+        <section class="cta-one">
+            <div class="cta-one-bg" style="
+            background-image: url(assets/images/backgrounds/cta-one-bg.png);
+          "></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cta-one__inner row">
+                            <div class="cta-one__left col-lg-8">
+                                <h2 class="cta-one__title">
+                                    Get in Touch with Us
+                                </h2>
+                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
+                            </div>
+                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 <?php include ("footer.php") ?>

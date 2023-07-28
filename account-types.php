@@ -21,7 +21,7 @@
         <div class="container">
           <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li><span>/</span></li>
               <li>Trade</li>
             </ul>
@@ -321,32 +321,27 @@
 
 
       <section class="cta-one">
-        <div
-          class="cta-one-bg"
-          style="
+            <div class="cta-one-bg" style="
             background-image: url(assets/images/backgrounds/cta-one-bg.png);
-          "
-        ></div>
-        <div class="container">
-          <div class="row">
-            <div class="col-xl-12">
-              <div class="cta-one__inner">
-                <div class="cta-one__left">
-                  <h2 class="cta-one__title">
-                    Calculate the overall profit <br />
-                    from Forex trading
-                  </h2>
+          "></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cta-one__inner row">
+                            <div class="cta-one__left col-lg-8">
+                                <h2 class="cta-one__title">
+                                    Get in Touch with Us
+                                </h2>
+                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
+                            </div>
+                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="cta-one__right">
-                  <a href="contact-us.html" class="thm-btn cta-one__btn"
-                    >Contact Us</a
-                  >
-                </div>
-              </div>
             </div>
-          </div>
-        </div>
-      </section>
+        </section>
       
     </div>
     <div class="mobile-nav__wrapper">
@@ -356,7 +351,7 @@
           ><i class="fa fa-times"></i
         ></span>
         <div class="logo-box">
-          <a href="index.html" aria-label="logo image"
+          <a href="index.php" aria-label="logo image"
             ><img src="assets/images/logo-1.png" width="155" alt=""
           /></a>
         </div>

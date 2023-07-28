@@ -17,7 +17,7 @@
         <div class="container">
             <div class="page-header__inner">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><span>/</span></li>
 
                     <li>About Us</li>
@@ -41,13 +41,13 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="about__right">
-                        <h2 class="about__title">Why Choose WTI Prime</h2>
+                        <h2 class="about__title">Why Choose WTI Prime Prime</h2>
                         <div class="about__icon-box">
                             <div class="about__icon">
                                 <span class="icon-data-analytics"></span>
                             </div>
                             <div class="about__icon-text">
-                                <p>WTI Prime is dedicated to providing excellence and transparency through our fully regulated brokerage service to our international clients with some of the most competitive spreads in the industry, and first-class professional support 24/5.</p>
+                                <p>WTI Prime Prime is dedicated to providing excellence and transparency through our fully regulated brokerage service to our international clients with some of the most competitive spreads in the industry, and first-class professional support 24/5.</p>
                             </div>
                         </div>
                         <p class="about__right-text">We collaborate with Top Tier-1 banks to provide our clients with a deep pool of liquidity and tight spreads as well as ultra-fast execution with no requotes offered by our No Dealing Desk (NDD) model.</p>
@@ -160,81 +160,19 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
-                        <div class="cta-one__inner">
-                            <div class="cta-one__left">
+                        <div class="cta-one__inner row">
+                            <div class="cta-one__left col-lg-8">
                                 <h2 class="cta-one__title">
-                                    Calculate the overall profit <br> from Forex trading 
+                                    Get in Touch with Us
                                 </h2>
+                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
                             </div>
-                            <div class="cta-one__right">
-                                <a href="contact-us.html" class="thm-btn cta-one__btn">Contact Us</a>
+                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </section>
-        <section class="brand-three">
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container swiper-container-initialized swiper-container-horizontal" data-swiper-options="{&quot;spaceBetween&quot;: 100, &quot;slidesPerView&quot;: 5, &quot;autoplay&quot;: { &quot;delay&quot;: 5000 }, &quot;breakpoints&quot;: {
-                    &quot;0&quot;: {
-                        &quot;spaceBetween&quot;: 30,
-                        &quot;slidesPerView&quot;: 2
-                    },
-                    &quot;375&quot;: {
-                        &quot;spaceBetween&quot;: 30,
-                        &quot;slidesPerView&quot;: 2
-                    },
-                    &quot;575&quot;: {
-                        &quot;spaceBetween&quot;: 30,
-                        &quot;slidesPerView&quot;: 3
-                    },
-                    &quot;767&quot;: {
-                        &quot;spaceBetween&quot;: 50,
-                        &quot;slidesPerView&quot;: 4
-                    },
-                    &quot;991&quot;: {
-                        &quot;spaceBetween&quot;: 50,
-                        &quot;slidesPerView&quot;: 5
-                    },
-                    &quot;1199&quot;: {
-                        &quot;spaceBetween&quot;: 100,
-                        &quot;slidesPerView&quot;: 5
-                    }
-                }}">
-                    <div class="swiper-wrapper" style="transform: translate3d(-508px, 0px, 0px); transition-duration: 0ms;">
-                        <div class="swiper-slide" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/Maestro_logo.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide swiper-slide-prev" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/Mastercard-logo.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide swiper-slide-active" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/QIWI.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide swiper-slide-next" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/Skrill_logo.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/Visa-Logo.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/webmoney.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/Maestro_logo.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/Mastercard-logo.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/QIWI.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide" style="width: 154px; margin-right: 100px;">
-                            <img src="assets/images/brand/Skrill_logo.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                    </div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
             </div>
         </section>
     </div>
@@ -243,7 +181,7 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-1.png" width="155"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/logo-1.png" width="155"
                         alt="" /></a>
             </div>
             <div class="mobile-nav__container"></div>

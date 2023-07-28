@@ -7,7 +7,7 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
-                                    <a href="index.html"><img src="assets/images/logo-1.png" alt="" width="342" height="85" style="margin-left:-20px"/></a>
+                                    <a href="index.php"><img src="assets/images/logo-1.png" alt="" width="342" height="85" style="margin-left:-20px"/></a>
                                 </div>
                                 <p class="footer-widget__text">
                                 Empowering Your Forex Journey: Unleash Your Trading Potential!
@@ -110,7 +110,7 @@
                         <div class="col-xl-12">
                             <div class="site-footer-bottom__inner">
                                 <div class="site-footer-bottom__left">
-                                    <p>© 2023 <a href="index.php">WTI Primes</a> . All Rights Reserved. </p>
+                                    <p>© 2023 <a href="index.php">WTI Prime Primes</a> . All Rights Reserved. </p>
                                 </div>
                                 <div class="site-footer__social">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -130,14 +130,14 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-1.png" width="155"
+                <a href="index.php" aria-label="logo image"><img src="assets/images/logo-1.png" width="155"
                         alt="" /></a>
             </div>
             <div class="mobile-nav__container"></div>
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@wtiprimes.com</a>
+                    <a href="mailto:needhelp@packageName__.com">needhelp@WTI Primeprimes.com</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
