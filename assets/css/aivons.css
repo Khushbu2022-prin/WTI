@@ -9347,3 +9347,35 @@ body.boxed-wrapper {
     transition: 500ms;
     letter-spacing: 0.1em;
 }
+
+/* new edits */
+.counter-incr{
+    counter-increment: twoBoxesCount;
+}
+
+.logo01::before{
+    font-size:48px;
+    
+    content: counters(twoBoxesCount, ".", decimal-leading-zero);
+}
+
+.logo02::before{
+    font-size:48px;
+    
+    content: counters(twoBoxesCount, ".", decimal-leading-zero);
+}
+
+.logo03::before{
+    font-size:48px;
+    
+    content: counters(twoBoxesCount, ".", decimal-leading-zero);
+}
+.logo04::before{
+    font-size:48px;
+    
+    content: counters(twoBoxesCount, ".", decimal-leading-zero);
+}
+
+.industriews_logo01 {
+    color:  #019CDE;
+}
