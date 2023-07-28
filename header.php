@@ -64,7 +64,7 @@
                                         <li><a href="legal-documentation.php">Legal Documentation</a></li>
                                         <li><a href="privacy-policy.php">Privacy Policy</a></li>
                                         <li><a href="risk-disclaimer.php">Risk Disclaimer</a></li>
-                                        <li><a href="Terms-Conditions.php">Terms & Conditions</a></li>
+                                        <li><a href="terms-conditions.php">Terms & Conditions</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">

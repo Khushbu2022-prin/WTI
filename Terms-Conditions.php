@@ -36,21 +36,21 @@
                             <div class="">
                             <h4>OWNERSHIP OF SITE</h4>
                             <br>
-                                <p>WTI owns and maintains this site. No act of downloading or otherwise copying from this site will transfer title to any software or material from this site to you. Anything that you transmit to this site becomes the property of WTI, may be used by WTI for any lawful purpose, and is further subject to disclosure as deemed appropriate by WTI, including to any legal or regulatory authority to which WTI is subject. WTI reserves all rights with respect to copyright and trademark ownership of all material at this site, and will enforce such rights to the full extent of the law.</p>
+                                <p>WTI Primes owns and maintains this site. No act of downloading or otherwise copying from this site will transfer title to any software or material from this site to you. Anything that you transmit to this site becomes the property of WTI Primes, may be used by WTI Primes for any lawful purpose, and is further subject to disclosure as deemed appropriate by WTI Primes, including to any legal or regulatory authority to which WTI Primes is subject. WTI Primes reserves all rights with respect to copyright and trademark ownership of all material at this site, and will enforce such rights to the full extent of the law.</p>
                             </div>
                         </div>
                         <div class="about__icon-box">
                             <div class="">
                             <h4>COPYRIGHT</h4>
                             <br>
-                                <p>The material contained in the website, including but not limited to all design, text, videos, sound recordings, and images, are owned, except as otherwise expressly stated, by WTI. Except as otherwise expressly stated herein, they may not be copied, transmitted, displayed, performed, distributed (for compensation or otherwise), licensed, altered, framed, stored for subsequent use, or otherwise used in whole or in part in any manner without WTI's prior written consent.</p>
+                                <p>The material contained in the website, including but not limited to all design, text, videos, sound recordings, and images, are owned, except as otherwise expressly stated, by WTI Primes. Except as otherwise expressly stated herein, they may not be copied, transmitted, displayed, performed, distributed (for compensation or otherwise), licensed, altered, framed, stored for subsequent use, or otherwise used in whole or in part in any manner without WTI Primes's prior written consent.</p>
                             </div>
                         </div>
                         <div class="about__icon-box">
                             <div class="">
                             <h4>SECURITY</h4>
                             <br>
-                                <p>If you communicate with WTI by e-mail, you should note that the security of Internet e-mail is uncertain. By sending sensitive or confidential e-mail messages which are not encrypted you accept the risks of such uncertainty and possible lack of confidentiality over the Internet. The Internet is not 100% safe and someone may be able to intercept and read your details.</p>
+                                <p>If you communicate with WTI Primes by e-mail, you should note that the security of Internet e-mail is uncertain. By sending sensitive or confidential e-mail messages which are not encrypted you accept the risks of such uncertainty and possible lack of confidentiality over the Internet. The Internet is not 100% safe and someone may be able to intercept and read your details.</p>
                             </div>
                         </div>
                     </div>

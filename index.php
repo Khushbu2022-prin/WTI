@@ -469,7 +469,7 @@
                                 a whole lot <br />
                                 easier
                             </h2>
-                            <a href="services.html" class="thm-btn our-mission__btn">Discover More</a>
+                            <a href="contact-us.php" class="thm-btn our-mission__btn">Discover More</a>
                         </div>
                     </div>
                 </div>
@@ -500,7 +500,7 @@
                                                 
                                                <br> If you think the exchange rate will rise you can open a ‘Buy’ position. Conversely, if you think the exchange rate will fall you can open a ‘Sell’ position.
                                                 
-                                              <br>  To see a full list of currency pairs offered by Plus500, click here.                                            </p>
+                                                                                         </p>
                                         </div>
                                     </div>
                                 </div>
