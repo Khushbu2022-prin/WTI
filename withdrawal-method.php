@@ -20,7 +20,7 @@
           </div>
         </div>
       </section>
-<!--  -->
+
 <section>
         <div class="container" style="padding-top: 70px;">
             <div class="welcome-one__right">
@@ -30,12 +30,11 @@
                 Traders need seamless and efficient ways to access their funds.<br>
                 At WTI Prime Primes, we prioritize our traders' convenience and satisfaction.<br>We understand that accessing your funds promptly is crucial for your trading experience.<br>That's why we offer a range of swift and secure withdrawal methods to suit your needs.
                 </p>
-            </div>
-        </div>
-    </section>
-    <!--  -->
 
-<section class="faqs-page">
+            </div>
+        </section>
+
+        <section class="faqs-page">
             <div class="container">
                 <div class="section-title text-center">
                     <h2 class="section-title__title">You've Got Questions?</h2>

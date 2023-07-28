@@ -117,7 +117,7 @@
                     <h2>PRO ACCOUNT</h2>
                   </div>
                   <div class="price">
-                    <h4><sup>$</sup>1000</h4>
+                    <h4><sup>$</sup>100</h4>
                   </div>
                   <div class="option">
                     <ul>
@@ -133,7 +133,7 @@
                       <li><i class="fas fa-check"></i> Max Leverage 1:500</li>
                     </ul>
                   </div>
-                  <a href="#">Create Account</a>
+                  <a href="#">Join Now</a>
                 </div>
               </div>
               <div class="col-sm-4">
@@ -143,7 +143,7 @@
                     <h2>VIP ACCOUNT</h2>
                   </div>
                   <div class="price">
-                    <h4><sup>$</sup>5000</h4>
+                    <h4><sup>$</sup>500</h4>
                   </div>
                   <div class="option">
                     <ul>
@@ -207,10 +207,10 @@
                 <td >
                     commission
                 </td>
-                <td >0</td>
+                <td >$ 0</td>
                
-                <td >0</td>
-                <td >0
+                <td >$ 40</td>
+                <td >$ 50
                   
                 </td>
               </tr>
@@ -251,10 +251,10 @@
                 <td >
                     account currency
                 </td>
-                <td >USD, EUR	</td>
+                <td >USD, EUR,GBP,ZAR	</td>
                
-                <td >USD, EUR	</td>
-                <td >USD, EUR		
+                <td >USD, EUR,GBP,ZAR	</td>
+                <td >USD, EUR,GBP,ZAR		
                   
                 </td>
               </tr>
@@ -313,6 +313,29 @@
                   
                 </td>
               </tr>
+              <tr>
+                <td >
+                Platforms available	
+                </td>
+                <td >MT4, MT5, fxTrade	</td>
+               
+                <td >MT5, fxTrade	</td>
+                <td >MT5, fxTrade		
+                  
+                </td>
+              </tr>
+              <tr>
+                <td >
+                Suitable for		
+                </td>
+                <td >All traders		</td>
+               
+                <td >High volume traders	</td>
+                <td >High volume traders		
+                  
+                </td>
+              </tr>
+
             </tbody>
           </table>
         </div>

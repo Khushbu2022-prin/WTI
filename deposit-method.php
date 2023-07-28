@@ -21,21 +21,90 @@
         </div>
       </section>
 <!--  -->
-<section>
-        <div class="container" style="padding-top: 70px;">
-            <div class="welcome-one__right">
-                <h2 class="welcome-one__title">Deposit Methods</h2>
-                <p class="welcome-one__text">
-                there are several common deposit methods typically offered by Forex websites to fund trading accounts.
-                Please note that the availability of specific methods may vary depending on the broker and the region you are in.
+<section class="welcome-one">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="welcome-one__left">
+                            <div class="welcome-one__img-box">
+                                <div class="welcome-one__img-1">
+                                    <img src="assets/images/resources/about-2.jpg" alt="">
+                                </div>
+                                <div class="welcome-one__img-2">
+                                    <img src="assets/images/resources/about-1.jpg" alt="" width="350" height="311">
+                                </div>
+                                <a href="https://www.youtube.com/watch?v=i9E_Blai8vk" class="welcome-one__video-btn video-popup">
+                                    <div class="welcome-one__video-btn-icon">
+                                        <i class="fa fa-play"></i>
+                                        <span class="ripple"></span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="welcome-one__right">
+                            <h2 class="welcome-one__title">Deposit Methods</h2>
+                            <p class="welcome-one__text">
+                            there are several common deposit methods typically offered by Forex websites to fund trading accounts.<br><br>
+                Please note that the availability of specific methods may vary depending on the broker and the region you are in.<br><br>
                 Always verify the available deposit methods with the specific Forex website or broker you intend to use.
-                </p>
+                            </p>
+                            
+                           
+                            <div class="welcome-one__big-text">WTI</div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
     <!--  -->
 
-<section class="faqs-page">
+    <section class="industries">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12">
+                        <div class="section-title text-left">
+                            <h2 class="section-title__title">How to make a deposit in 4 simple steps</h2>
+                            
+                        </div>
+                    </div>
+                    
+                </div>
+                <ul class="list-unstyled industries__content-box">
+                    <li class="industries__single wow fadeInUp animated counter-incr" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <div class="industries__icon industriews_logo01">
+                            <span class="logo01"></span>
+                        </div>
+                        <h3 class="industries__title"><a href="banking-advising.html"> </a></h3>
+                        <p class="industries__text">Open the Deposits page within the 'Accounts' section in WTI Primes.</p>
+                    </li>
+                    <li class="industries__single wow fadeInUp animated counter-incr" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+                        <div class="industries__icon industriews_logo01">
+                            <span class="logo02"></span>
+                        </div>
+                        <h3 class="industries__title"><a href="business-growth.html"> </a></h3>
+                        <p class="industries__text">Choose your preferred deposit method and click ‘Deposit’.</p>
+                    </li>
+                    <li class="industries__single wow fadeInUp animated counter-incr" data-wow-delay="600ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 600ms; animation-name: fadeInUp;">
+                        <div class="industries__icon industriews_logo01">
+                            <span class="logo03"></span>
+                        </div>
+                        <h3 class="industries__title"><a href="financial-advice.html"> </a></h3>
+                        <p class="industries__text">Choose the trading account you’d like to deposit funds into</p>
+                    </li>
+                    <li class="industries__single wow fadeInUp animated counter-incr" data-wow-delay="900ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 900ms; animation-name: fadeInUp;">
+                        <div class="industries__icon industriews_logo01">
+                            <span class="logo04"></span>
+                        </div>
+                        <h3 class="industries__title"><a href="marketing-rule.html"> </a></h3>
+                        <p class="industries__text">Confirm your deposit details in the next page – and you’re good to go!</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+    <section class="faqs-page">
             <div class="container">
                 <div class="section-title text-center">
                     <h2 class="section-title__title">You've Got Questions?</h2>
