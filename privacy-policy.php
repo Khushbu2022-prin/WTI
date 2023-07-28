@@ -34,27 +34,27 @@
                     <div class="about__right" style="margin-left: 0px;">
                         <h5 class="about__title">Privacy Policy</h5>
                         <br>
-                        <p class="about__right-text">WTI lays great emphasis on keeping the information shared by our website users and visitors private and confidential. The use of the data you share with us will be governed by this Forex Privacy Policy. WTI adheres to the data protection provisions as mentioned in International Law. In order to consider the conditions and threats posed by the changing operations, technologies, practices and legislations, we will review this Policy Statement and update it with required information with/out notification.</p>
+                        <p class="about__right-text">WTI Primes lays great emphasis on keeping the information shared by our website users and visitors private and confidential. The use of the data you share with us will be governed by this Forex Privacy Policy. WTI Primes Primes adheres to the data protection provisions as mentioned in International Law. In order to consider the conditions and threats posed by the changing operations, technologies, practices and legislations, we will review this Policy Statement and update it with required information with/out notification.</p>
                       
                     </div>
                     <div class="reasons__content">
-                        <h4 class="reasons__content-title">What Personal Information Does WTI Collect?</h4>
-                        <p class="reasons__content-text">When you apply to open a WTI account, we require certain information in order to process the request. This information may include personal and financial details, such as, name, address, contact number, date of birth, employment details, liabilities and assets.
+                        <h4 class="reasons__content-title">What Personal Information Does WTI Primes Collect?</h4>
+                        <p class="reasons__content-text">When you apply to open a WTI Primes account, we require certain information in order to process the request. This information may include personal and financial details, such as, name, address, contact number, date of birth, employment details, liabilities and assets.
 <br>
                             To improve your trading experience we may require further information. Sometimes the law may require us to hold some information about our customers. In such cases we obtain the information through our application forms and other information request forms.</p>
                     </div>
                     <br>
                     <div class="reasons__content">
-                        <h4 class="reasons__content-title">WTI May Collect The Following Information</h4>
+                        <h4 class="reasons__content-title">WTI Primes Primes May Collect The Following Information</h4>
                         <p class="reasons__content-text">Personal details through forms Financial details through forms and record of services rendered Information about a trader’s usage pattern of our website and trading platforms Record of trading activities to help us serve you better</p>
                     </div>
                     <br>
                     <div class="reasons__content">
-                        <h4 class="reasons__content-title">How Does WTI Use Information Shared By Trader?</h4>
+                        <h4 class="reasons__content-title">How Does WTI Primes Primes Use Information Shared By Trader?</h4>
                     </div>
                     <br>
                     <div class="reasons__content">
-                        <h4 class="reasons__content-title">The trader information WTI holds is used for:</h4>
+                        <h4 class="reasons__content-title">The trader information WTI Primes Primes holds is used for:</h4>
                         <ul class="list-unstyled services-details__planning-list">
                             <li>
                                 <div class="icon">
@@ -94,7 +94,7 @@
 <br>
                     <div class="reasons__content">
                         <h4 class="reasons__content-title">Disclosure Of Information</h4>
-                        <p>On the basis of the product or service concerned and with regard to particular restrictions on sensitive information, WTI may disclose information about traders to:</p>
+                        <p>On the basis of the product or service concerned and with regard to particular restrictions on sensitive information, WTI Primes Primes may disclose information about traders to:</p>
                         <ul class="list-unstyled services-details__planning-list">
                             <li>
                                 <div class="icon">

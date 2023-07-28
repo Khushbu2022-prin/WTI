@@ -42,7 +42,7 @@ leveraged products that involve a significant risk of loss</p>
 							<span class="icon-protection"></span>
 						</div>
 						<h3 class="industries__title"><a href="business-growth.html">Privacy <br> Policy</a></h3>
-						<p class="industries__text">ASFX lays great emphasis on keeping the information shared by our website users and visitors private</p>
+						<p class="industries__text">WTI Primes lays great emphasis on keeping the information shared by our website users and visitors private</p>
                         <a href="privacy-policy.php">Learn More</a>
 					</li>
 					<li class="industries__single wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
@@ -52,8 +52,8 @@ leveraged products that involve a significant risk of loss</p>
 						<h3 class="industries__title"><a href="financial-advice.html">Fair <br> Treatment</a></h3>
                        
 						<p class="industries__text">Treating customers fairly is a core value at
-ASFX</p>
-<a href="fair-treatment.php">Learn More</a>
+WTI Primes</p>
+<a href="#">Learn More</a>
 <br>
                         <br>
 					</li>
