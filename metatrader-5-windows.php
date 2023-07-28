@@ -69,6 +69,110 @@
         </div>
     </section>
 
+
+    <section class="two-boxes" style="margin-top: 70px;">
+        <div class="container">
+            <div class="section-title text-center">
+                <h2 class="section-title__title" style="color: black">Features of MetaTrader 5 (Mobile):</h2>
+            </div>
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">USER-FRIENDLY INTERFACE</h3>
+                                <p class="two-boxes__text">
+                                MT5 has an intuitive and easy-to-navigate interface, making it accessible for traders of all experience levels. The layout can be customized to suit individual preferences, allowing for a personalized trading environment.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">TRADING ORDERS</h3>
+                                <p class="two-boxes__text">
+                                MT5 offers various types of trading orders, such as market orders, pending orders (limit, stop, and stop-limit), and trailing stop orders. This flexibility enables traders to implement different trading strategies.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top: 40px;">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">ADVANCED CHARTING TOOLS</h3>
+                                <p class="two-boxes__text">
+                                MT5 provides advanced charting capabilities with multiple timeframes and various technical indicators. Traders can conduct in-depth technical analysis to identify market trends and potential entry and exit points.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">MULTIPLE ASSET CLASSES</h3>
+                                <p class="two-boxes__text">
+                                Traders can access a wide range of financial instruments, including currency pairs, stocks, indices, commodities, and cryptocurrencies, all within the same platform.</p><br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin: 40px 0;">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">ONE-CLICK TRADING</h3>
+                                <p class="two-boxes__text">
+                                The platform supports one-click trading, allowing traders to execute trades quickly and efficiently, especially during fast-moving market conditions.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="two-boxes__single">
+                        <div class="two-boxes__single-content">
+                            <div class="two-boxes__count">
+                                <span></span>
+                            </div>
+                            <div class="two-boxes__content">
+                                <h3 class="two-boxes__title">AUTOMATED TRADING</h3>
+                                <p class="two-boxes__text">
+                                Traders can use Expert Advisors (EAs), which are automated trading robots, to execute trades based on pre-defined conditions and strategies.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <section class="real-world" style="background-color: #FFF">
         <div class="real-world-shape wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms" style="
             background-image: url(assets/images/shapes/real-world-shape.png);">
