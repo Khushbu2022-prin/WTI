@@ -64,7 +64,7 @@
                                 <div class="accrodion-title">
                                     <h4><span>.</span>What is Withdrawal Process </h4>
                                 </div>
-                                <div class="accrodion-content" style="">
+                                <div class="accrodion-content">
                                     <div class="inner">
                                         <p>
                                         1. Log in to your trading account: Access your account using your unique credentials.<br>
