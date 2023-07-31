@@ -30,7 +30,7 @@
                             <div class="row">
                                 <div class="col-lg-10">
                                     <div class="main-slider__content">
-                                        <p>WTI Prime Primes Webtrader</p>
+                                        <p>WTI Prime Webtrader</p>
                                         <h2>
                                         Leaders in zero-commission trading platforms
                                         </h2>
@@ -78,7 +78,7 @@
                             <div class="row">
                                 <div class="col-lg-10">
                                     <div class="main-slider__content">
-                                        <p>welcome to WTI Prime Primes </p>
+                                        <p>welcome to WTI Prime </p>
                                         <h2>
                                             Trading 
                                             Platform for 
@@ -150,7 +150,7 @@
           "></div>
             <div class="container">
                 <div class="section-title text-center">
-                    <h2 class="section-title__title">Why Trade with WTI Prime PRIMES?</h2>
+                    <h2 class="section-title__title">Why Trade with WTI Prime?</h2>
                   
                 </div>
                 <div class="row">
@@ -182,7 +182,11 @@
                             <h2 class="real-world__title">
                                 <a >Veteran Expertise
                             </h2>
+<<<<<<< HEAD
+                           <p>WTI Prime team consists of trading veterans with a deep, first-hand understanding of markets</p>
+=======
                            <p style="color:aliceblue">WTI Prime Primes team consists of trading veterans with a deep, first-hand understanding of markets</p>
+>>>>>>> 65f133c18c2d5ae5379557aa17847907525f0466
                             <div class="real-world__icon-box">
                                 <span class="icon-report"></span>
                             </div>
@@ -322,7 +326,7 @@
                         <div class="welcome-one__right">
                             <h2 class="welcome-one__title">Trade Forex on our award-winning trading platform</h2>
                             <p class="welcome-one__text">
-                                WTI Prime Primes is our powerful yet easy-to-use platform. Trade from PC, Mac, tablet or smartphone.
+                                WTI Prime is our powerful yet easy-to-use platform. Trade from PC, Mac, tablet or smartphone.
                             </p>
                             <p class="welcome-one__text-two">
                                 Powerful FX trading tools
@@ -637,7 +641,7 @@ Please note that when trading Forex or shares CFDs you do not actually own the u
                             <div class="testimonials-one__carousel owl-theme owl-carousel">
                                 <div class="testimonials-one__single">
                                     <p class="testimonials-one__text">
-                                        I have not been a consistent trader till i found Breakfree Trading. The 'WTI Prime Primes' allow us to see where are the important level for our trade entry set up and profit target.
+                                        I have not been a consistent trader till i found Breakfree Trading. The 'WTI Prime' allow us to see where are the important level for our trade entry set up and profit target.
                                     </p>
                                     <div class="testimonials-one__client-info">
                                         <h5 class="testimonials-one__client-name">
@@ -665,7 +669,7 @@ Please note that when trading Forex or shares CFDs you do not actually own the u
                                 </div>
                                 <div class="testimonials-one__single">
                                     <p class="testimonials-one__text">
-                                        The wide range of assets provided by WTI Prime Primes is something that attracted my attention when I was choosing a broker for my Forex trading. A big thank you to WTI Prime Primes, you guys rock... :)
+                                        The wide range of assets provided by WTI Prime is something that attracted my attention when I was choosing a broker for my Forex trading. A big thank you to WTI Prime, you guys rock... :)
                                     </p>
                                     <div class="testimonials-one__client-info">
                                         <h5 class="testimonials-one__client-name">
@@ -710,7 +714,7 @@ Please note that when trading Forex or shares CFDs you do not actually own the u
                                 </div>
                                 <div class="testimonials-one__single">
                                     <p class="testimonials-one__text">
-                                        Hey my pleasure, enjoying your platform. Definitely the best BTC broker I've found for WTI Prime Primes!
+                                        Hey my pleasure, enjoying your platform. Definitely the best BTC broker I've found for WTI Prime!
                                     </p>
                                     <div class="testimonials-one__client-info">
                                         <h5 class="testimonials-one__client-name">
@@ -774,7 +778,7 @@ Please note that when trading Forex or shares CFDs you do not actually own the u
         <section class="news-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2 class="section-title__title">WHY TRADE WITH WTI Prime PRIMES </h2>
+                    <h2 class="section-title__title">WHY TRADE WITH WTI Prime </h2>
                     <span class="section-title__tagline">All your online trading needs in one hi-tech dashboard</span>
                 </div>
                 <div class="row">
@@ -838,7 +842,7 @@ with a trusted firm
                                 <p class="news-one__text">
                                     24/6 customer support, on-hand experts, eResources and events.
                                 </p>
-                                <a href="why-us.php" class="news-one__btn">About WTI Prime Primes</a>
+                                <a href="why-us.php" class="news-one__btn">About WTI Prime</a>
                                 <div class="news-one__date-box">
                                     <i class="uil uil-bolt"></i>
                                 </div>
