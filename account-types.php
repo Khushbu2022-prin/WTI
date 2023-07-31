@@ -21,20 +21,82 @@
         <div class="container">
           <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
-              <li><a href="index.php">Home</a></li>
+              <li><a href="index.html">Home</a></li>
               <li><span>/</span></li>
-              <li>Accounts</li>
+              <li>Trade</li>
             </ul>
             <h2>Account Types</h2>
           </div>
         </div>
       </section>
+      <section class="welcome-one">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome-one__left">
+                        <div class="welcome-one__img-box">
+                            <div class="welcome-one__img-1">
+                                <img src="assets/images/resources/welcome-1-img-1.jpg" alt="">
+                            </div>
+                            <div class="welcome-one__img-2">
+                                <img src="assets/images/resources/welcome-1-img-2.jpg" alt="">
+                            </div>
+                            <a href="https://www.youtube.com/watch?v=i9E_Blai8vk" class="welcome-one__video-btn video-popup">
+                                <div class="welcome-one__video-btn-icon">
+                                    <i class="fa fa-play"></i>
+                                    <span class="ripple"></span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome-one__right">
+                        <h2 class="welcome-one__title">We’re leading in the market</h2>
+                        <p class="welcome-one__text">Lorem ipsum is simply free text dolor sit amet, consectetur
+                            notted adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna
+                            aliqua lonm andhn.</p>
+                        <p class="welcome-one__text-two">We have 35+ years of experience. We offer marketing and
+                            consulting services</p>
+                        <div class="welcome-one__progress">
+                            <div class="welcome-one__progress-single">
+                                <div class="bar">
+                                    <div class="bar-inner count-bar counted" data-percent="88%" style="width: 88%;">
+                                        <div class="count-text">88%</div>
+                                    </div>
+                                </div>
+                                <h4 class="welcome-one__progress-title">Consulting</h4>
+                            </div>
+                            <div class="welcome-one__progress-single">
+                                <div class="bar">
+                                    <div class="bar-inner count-bar counted" data-percent="68%" style="width: 68%;">
+                                        <div class="count-text">68%</div>
+                                    </div>
+                                </div>
+                                <h4 class="welcome-one__progress-title">Advices</h4>
+                            </div>
+                        </div>
+                        <div class="welcome-one__call">
+                            <div class="welcome-one__call-icon">
+                                <span class="icon-phone-ringing"></span>
+                            </div>
+                            <div class="welcome-one__call-text">
+                                <p>Have any question? Give us a call</p>
+                                <a href="tel:+92-666-888-0000">+92 666 888 0000</a>
+                            </div>
+                        </div>
+                        <div class="welcome-one__big-text">aivons</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
       <section class="two-boxes" style="padding: 110px 0">
         <div class="container">
           <div class="section-title text-center">
             <h2 class="section-title__title">Account Types</h2>
             <span class="section-title__tagline"
-              >WTI Primes is a global broker, operating offices in various
+              >TradeFX is a global broker, operating offices in various
               jurisdictions.</span
             >
           </div>
@@ -48,7 +110,7 @@
                   <div class="two-boxes__content">
                     <h3 class="two-boxes__title">Live Trading Accounts</h3>
                     <p class="two-boxes__text">
-                      Each of WTI Primes live trading accounts have their own
+                      Each of VIPTRADE’s live trading accounts have their own
                       conditions, tailored to different types of traders
                       depending on their individual needs, investment goals and
                       financial background. Whatever your level of experience
@@ -117,7 +179,7 @@
                     <h2>PRO ACCOUNT</h2>
                   </div>
                   <div class="price">
-                    <h4><sup>$</sup>100</h4>
+                    <h4><sup>$</sup>1000</h4>
                   </div>
                   <div class="option">
                     <ul>
@@ -133,7 +195,7 @@
                       <li><i class="fas fa-check"></i> Max Leverage 1:500</li>
                     </ul>
                   </div>
-                  <a href="#">Join Now</a>
+                  <a href="#">Create Account</a>
                 </div>
               </div>
               <div class="col-sm-4">
@@ -143,7 +205,7 @@
                     <h2>VIP ACCOUNT</h2>
                   </div>
                   <div class="price">
-                    <h4><sup>$</sup>500</h4>
+                    <h4><sup>$</sup>5000</h4>
                   </div>
                   <div class="option">
                     <ul>
@@ -207,10 +269,10 @@
                 <td >
                     commission
                 </td>
-                <td >$ 0</td>
+                <td >0</td>
                
-                <td >$ 40</td>
-                <td >$ 50
+                <td >0</td>
+                <td >0
                   
                 </td>
               </tr>
@@ -251,10 +313,10 @@
                 <td >
                     account currency
                 </td>
-                <td >USD, EUR,GBP,ZAR	</td>
+                <td >USD, EUR	</td>
                
-                <td >USD, EUR,GBP,ZAR	</td>
-                <td >USD, EUR,GBP,ZAR		
+                <td >USD, EUR	</td>
+                <td >USD, EUR		
                   
                 </td>
               </tr>
@@ -313,29 +375,6 @@
                   
                 </td>
               </tr>
-              <tr>
-                <td >
-                Platforms available	
-                </td>
-                <td >MT4, MT5, fxTrade	</td>
-               
-                <td >MT5, fxTrade	</td>
-                <td >MT5, fxTrade		
-                  
-                </td>
-              </tr>
-              <tr>
-                <td >
-                Suitable for		
-                </td>
-                <td >All traders		</td>
-               
-                <td >High volume traders	</td>
-                <td >High volume traders		
-                  
-                </td>
-              </tr>
-
             </tbody>
           </table>
         </div>
@@ -344,27 +383,32 @@
 
 
       <section class="cta-one">
-            <div class="cta-one-bg" style="
+        <div
+          class="cta-one-bg"
+          style="
             background-image: url(assets/images/backgrounds/cta-one-bg.png);
-          "></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="cta-one__inner row">
-                            <div class="cta-one__left col-lg-8">
-                                <h2 class="cta-one__title">
-                                    Get in Touch with Us
-                                </h2>
-                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
-                            </div>
-                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
-                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
+          "
+        ></div>
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-12">
+              <div class="cta-one__inner">
+                <div class="cta-one__left">
+                  <h2 class="cta-one__title">
+                    Calculate the overall profit <br />
+                    from Forex trading
+                  </h2>
                 </div>
+                <div class="cta-one__right">
+                  <a href="contact-us.html" class="thm-btn cta-one__btn"
+                    >Contact Us</a
+                  >
+                </div>
+              </div>
             </div>
-        </section>
+          </div>
+        </div>
+      </section>
       
     </div>
     <div class="mobile-nav__wrapper">
@@ -374,7 +418,7 @@
           ><i class="fa fa-times"></i
         ></span>
         <div class="logo-box">
-          <a href="index.php" aria-label="logo image"
+          <a href="index.html" aria-label="logo image"
             ><img src="assets/images/logo-1.png" width="155" alt=""
           /></a>
         </div>
