@@ -63,7 +63,7 @@
                         </p>
                         </div>
                        
-                        <div class="welcome-one__big-text">WTI Prime</div>
+                        <div class="welcome-one__big-text">WTI Primes</div>
                     </div>
                 </div>
             </div>

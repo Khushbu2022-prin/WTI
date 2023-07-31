@@ -28,7 +28,7 @@
                 <p class="welcome-one__text">
                 When it comes to forex websites, providing a variety of withdrawal methods is just as important as offering diverse deposit options.<br>
                 Traders need seamless and efficient ways to access their funds.<br>
-                At WTI Prime Primes, we prioritize our traders' convenience and satisfaction.<br>We understand that accessing your funds promptly is crucial for your trading experience.<br>That's why we offer a range of swift and secure withdrawal methods to suit your needs.
+                At WTI Primes, we prioritize our traders' convenience and satisfaction.<br>We understand that accessing your funds promptly is crucial for your trading experience.<br>That's why we offer a range of swift and secure withdrawal methods to suit your needs.
                 </p>
 
             </div>

@@ -131,7 +131,7 @@
                             </div>
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h4><span>.</span> What does WTI PrimePrimes.com provide?</h4>
+                                    <h4><span>.</span> What does WTIPrimes.com provide?</h4>
                                 </div>
                                 <div class="accrodion-content" style="">
                                     <div class="inner">
@@ -141,7 +141,7 @@
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title">
-                                    <h4><span>.</span> Does member at MQL5 Community represent WTI PrimePrimes.com?</h4>
+                                    <h4><span>.</span> Does member at MQL5 Community represent WTIPrimes.com?</h4>
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
@@ -278,7 +278,7 @@ On the other hand, bank or wire transfers may take a few business days. Checks a
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>At WTI Prime Primes, we strive to make forex trading accessible and user-friendly. <br>Our diverse range of deposit methods ensures that you can choose the option that best suits your needs and preferences. <br>Rest assured, all transactions are secured by robust encryption protocols, providing you with peace of mind while trading with us. If you have any questions or need assistance with your deposit, our dedicated support team is ready to help.</p>
+                                        <p>At WTI Primes, we strive to make forex trading accessible and user-friendly. <br>Our diverse range of deposit methods ensures that you can choose the option that best suits your needs and preferences. <br>Rest assured, all transactions are secured by robust encryption protocols, providing you with peace of mind while trading with us. If you have any questions or need assistance with your deposit, our dedicated support team is ready to help.</p>
                                     </div>
                                 </div>
 

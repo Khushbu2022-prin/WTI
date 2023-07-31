@@ -23,7 +23,7 @@
             <ul class="thm-breadcrumb list-unstyled">
               <li><a href="index.php">Home</a></li>
               <li><span>/</span></li>
-              <li>Trade</li>
+              <li>Accounts</li>
             </ul>
             <h2>Account Types</h2>
           </div>
@@ -34,7 +34,7 @@
           <div class="section-title text-center">
             <h2 class="section-title__title">Account Types</h2>
             <span class="section-title__tagline"
-              >TradeFX is a global broker, operating offices in various
+              >WTI Primes is a global broker, operating offices in various
               jurisdictions.</span
             >
           </div>
@@ -48,7 +48,7 @@
                   <div class="two-boxes__content">
                     <h3 class="two-boxes__title">Live Trading Accounts</h3>
                     <p class="two-boxes__text">
-                      Each of VIPTRADE’s live trading accounts have their own
+                      Each of WTI Primes live trading accounts have their own
                       conditions, tailored to different types of traders
                       depending on their individual needs, investment goals and
                       financial background. Whatever your level of experience
