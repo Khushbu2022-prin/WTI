@@ -23,7 +23,7 @@
             <ul class="thm-breadcrumb list-unstyled">
               <li><a href="index.html">Home</a></li>
               <li><span>/</span></li>
-              <li>Trade</li>
+              <li>Account</li>
             </ul>
             <h2>Account Types</h2>
           </div>
@@ -52,10 +52,8 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome-one__right">
-                        <h2 class="welcome-one__title">We’re leading in the market</h2>
-                        <p class="welcome-one__text">Lorem ipsum is simply free text dolor sit amet, consectetur
-                            notted adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna
-                            aliqua lonm andhn.</p>
+                        <h2 class="welcome-one__title">Account comparison</h2>
+                        <p class="welcome-one__text">Zero commission, one-click trading, 24/5 client support, powerful analysis tools and competitive prices on a range of CFD markets are some of the benefits that come with an WTI Primes trading account.</p>
                         <p class="welcome-one__text-two">We have 35+ years of experience. We offer marketing and
                             consulting services</p>
                         <div class="welcome-one__progress">
