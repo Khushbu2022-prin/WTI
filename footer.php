@@ -7,7 +7,7 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
-                                    <!-- <a href="index.html"><img src="assets/images/logo-1.png" alt=""  height="85" style="margin-left:-20px"/></a> -->
+                                    <a href="index.html"><img src="assets/images/logo-1.png" alt=""  height="85" style="margin-left:-20px"/></a>
                                 </div>
                                 <p class="footer-widget__text">
                                 Empowering Your Forex Journey: Unleash Your Trading Potential!
