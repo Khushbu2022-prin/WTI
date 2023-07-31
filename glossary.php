@@ -207,7 +207,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-d" style="display: block;">
+                            <div class="tab active-tab" id="tab-d" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -257,7 +257,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-e" style="display: block;">
+                            <div class="tab active-tab" id="tab-e" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -307,7 +307,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-f" style="display: block;">
+                            <div class="tab active-tab" id="tab-f" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -355,7 +355,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-g" style="display: block;">
+                            <div class="tab active-tab" id="tab-g" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -405,7 +405,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-h" style="display: block;">
+                            <div class="tab active-tab" id="tab-h" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -455,7 +455,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-i" style="display: block;">
+                            <div class="tab active-tab" id="tab-i" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -505,7 +505,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-j" style="display: block;">
+                            <div class="tab active-tab" id="tab-j" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -528,7 +528,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-k" style="display: block;">
+                            <div class="tab active-tab" id="tab-k" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -569,7 +569,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-l" style="display: block;">
+                            <div class="tab active-tab" id="tab-l" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -620,7 +620,7 @@
                                 </div>
                             </div>
 
-                            <div class="tab active-tab" id="tab-m" style="display: block;">
+                            <div class="tab active-tab" id="tab-m" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -670,7 +670,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-n" style="display: block;">
+                            <div class="tab active-tab" id="tab-n" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -702,7 +702,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-o" style="display: block;">
+                            <div class="tab active-tab" id="tab-o" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -752,7 +752,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-p" style="display: block;">
+                            <div class="tab active-tab" id="tab-p" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -793,7 +793,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-q" style="display: block;">
+                            <div class="tab active-tab" id="tab-q" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -825,7 +825,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-r" style="display: block;">
+                            <div class="tab active-tab" id="tab-r" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -866,7 +866,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-s" style="display: block;">
+                            <div class="tab active-tab" id="tab-s" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -916,7 +916,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-t" style="display: block;">
+                            <div class="tab active-tab" id="tab-t" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -955,7 +955,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-u" style="display: block;">
+                            <div class="tab active-tab" id="tab-u" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -987,7 +987,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-v" style="display: block;">
+                            <div class="tab active-tab" id="tab-v" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -1019,7 +1019,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-w" style="display: block;">
+                            <div class="tab active-tab" id="tab-w" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -1051,7 +1051,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-x" style="display: block;">
+                            <div class="tab active-tab" id="tab-x" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -1083,7 +1083,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-y" style="display: block;">
+                            <div class="tab active-tab" id="tab-y" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
@@ -1115,7 +1115,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tab active-tab" id="tab-z" style="display: block;">
+                            <div class="tab active-tab" id="tab-z" style="display: none;">
                                 <div class="financial-advice__content">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12">
