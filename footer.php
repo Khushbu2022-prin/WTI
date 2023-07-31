@@ -110,7 +110,7 @@
                         <div class="col-xl-12">
                             <div class="site-footer-bottom__inner">
                                 <div class="site-footer-bottom__left">
-                                    <p>© 2023 <a href="index.php">WTI Prime Primes</a> . All Rights Reserved. </p>
+                                    <p>© 2023 <a href="index.php">WTI Primes</a> . All Rights Reserved. </p>
                                 </div>
                                 <div class="site-footer__social">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -137,7 +137,7 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@WTI Primeprimes.com</a>
+                    <a href="mailto:needhelp@packageName__.com">needhelp@WTIprimes.com</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>

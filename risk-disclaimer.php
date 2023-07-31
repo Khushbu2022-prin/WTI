@@ -39,7 +39,7 @@
 
  
 <br>
-<p>WTI Primes’ Networking page provides a free listing for individuals or businesses (Users) to post details of their business and activities, including contact details, so that other individuals or businesses may be aware of and subsequently choose to make contact with those listed (Arrangement).  Users should perform their own checks to confirm the accuracy of the information before taking any action in reliance on it.</p>
+<p>WTI Primes Networking page provides a free listing for individuals or businesses (Users) to post details of their business and activities, including contact details, so that other individuals or businesses may be aware of and subsequently choose to make contact with those listed (Arrangement).  Users should perform their own checks to confirm the accuracy of the information before taking any action in reliance on it.</p>
                                     
                                      
                                     <br>

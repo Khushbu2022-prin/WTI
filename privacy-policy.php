@@ -45,16 +45,16 @@
                     </div>
                     <br>
                     <div class="reasons__content">
-                        <h4 class="reasons__content-title">WTI Primes Primes May Collect The Following Information</h4>
+                        <h4 class="reasons__content-title">WTI Primes May Collect The Following Information</h4>
                         <p class="reasons__content-text">Personal details through forms Financial details through forms and record of services rendered Information about a trader’s usage pattern of our website and trading platforms Record of trading activities to help us serve you better</p>
                     </div>
                     <br>
                     <div class="reasons__content">
-                        <h4 class="reasons__content-title">How Does WTI Primes Primes Use Information Shared By Trader?</h4>
+                        <h4 class="reasons__content-title">How Does WTI Primes Use Information Shared By Trader?</h4>
                     </div>
                     <br>
                     <div class="reasons__content">
-                        <h4 class="reasons__content-title">The trader information WTI Primes Primes holds is used for:</h4>
+                        <h4 class="reasons__content-title">The trader information WTI Primes holds is used for:</h4>
                         <ul class="list-unstyled services-details__planning-list">
                             <li>
                                 <div class="icon">
@@ -94,7 +94,7 @@
 <br>
                     <div class="reasons__content">
                         <h4 class="reasons__content-title">Disclosure Of Information</h4>
-                        <p>On the basis of the product or service concerned and with regard to particular restrictions on sensitive information, WTI Primes Primes may disclose information about traders to:</p>
+                        <p>On the basis of the product or service concerned and with regard to particular restrictions on sensitive information, WTI Primes may disclose information about traders to:</p>
                         <ul class="list-unstyled services-details__planning-list">
                             <li>
                                 <div class="icon">
