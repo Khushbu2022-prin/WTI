@@ -68,7 +68,7 @@
                   <div class="two-boxes__content">
                     <h3 class="two-boxes__title">Demo Trading Accounts</h3>
                     <p class="two-boxes__text">
-                      We offer MICRO/PRO/VIP accounts in demo formats as a
+                      We offer CLASSIC/PRO/VIP accounts in demo formats as a
                       perfect way to experiment with different strategies and
                       practice under real market conditions. These demo accounts
                       are funded with virtual cash, meaning you can prepare
@@ -98,7 +98,7 @@
                   <div class="option">
                     <ul>
                       <li>
-                        <i class="fas fa-check"></i> Minimum deposit - 100*
+                        <i class="fas fa-check"></i> Minimum deposit - 50*
                       </li>
                       <li><i class="fas fa-check"></i> Available Base Currencies - USD,EUR,GBP,ZAR</li>
                       <li><i class="fas fa-check"></i> Spreads From - 1.6 pips 
@@ -148,7 +148,7 @@
                   <div class="option">
                     <ul>
                       <li>
-                        <i class="fas fa-check"></i> Minimum Balance - 100*
+                        <i class="fas fa-check"></i> Minimum Balance - 500*
                       </li>
                       <li><i class="fas fa-check"></i> Available Base Currencies - USD,EUR,GBP,ZAR</li>
                       <li><i class="fas fa-check"></i> Spreads From - 0.0 pips 

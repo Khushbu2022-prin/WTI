@@ -21,7 +21,7 @@
         </div>
       </section>
 
-<section>
+        <section>
         <div class="container" style="padding-top: 70px;">
             <div class="welcome-one__right">
                 <h2 class="welcome-one__title">Withdrawl Methods</h2>
@@ -33,6 +33,211 @@
 
             </div>
         </section>
+
+        <section class="message-box">
+            <div class="container">
+                <div class="row">
+                    <div><h1 style="text-align: center;margin-bottom: 30px;"><strong>Withdrawal Form</strong></h1></div>
+                    <div class="col-xl-12 col-lg-12">
+                        <div class="message-box__right">
+                            <form action="https://layerdrops.com/aivons/assets/inc/sendemail.php" class="comment-one__form contact-form-validated" novalidate="novalidate">
+                                <div class="row">
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Your name*" name="name">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-user-circle"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Your MT5 Login ID*" name="email">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--  -->
+                                <div class="row">
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Email ID*" name="name">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-user-circle"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <select name="cars" id="cars">
+
+                                                <option value="" disabled selected>Country</option>
+
+                                                <option value="Albania">Albania</option>
+                 
+                                                <option value="Algeria">Algeria</option>
+                 
+                                                <option value="American Samoa">American Samoa</option>
+                 <option value="Andorra">Andorra</option>
+                 
+                 <option value="Antigua and Barbuda">Antigua and Barbuda</option>
+                 <option value="Argentina">Argentina</option>
+                 <option value="Armenia">Armenia</option>
+                 <option value="Aruba">Aruba</option>
+                 <option value="Australia">Australia</option>
+                 <option value="Austria">Austria</option>
+                 <option value="Azerbaijan">Azerbaijan</option>
+                 <option value="Bahamas">Bahamas</option>
+                 <option value="Bahrain">Bahrain</option>
+                 <option value="Bangladesh">Bangladesh</option>
+                 <option value="Barbados">Barbados</option>
+                 <option value="Belarus">Belarus</option>
+                 <option value="Belgium">Belgium</option>
+                 <option value="Belize">Belize</option>
+                 <option value="Benin">Benin</option>
+                 <option value="Bermuda">Bermuda</option>
+                 <option value="Bhutan">Bhutan</option>
+                 <option value="Bolivia">Bolivia</option>
+                 <option value="Bosnia and Herzegowina">Bosnia and Herzegowina</option>
+                 <option value="Botswana">Botswana</option>
+                 <option value="Bouvet Island">Bouvet Island</option>
+                 <option value="Brazil">Brazil</option>
+                 <option value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+                 <option value="Brunei Darussalam">Brunei Darussalam</option>
+                 <option value="Bulgaria">Bulgaria</option>
+                 <option value="Burkina Faso">Burkina Faso</option>
+                 <option value="Burundi">Burundi</option>
+                 <option value="Cambodia">Cambodia</option>
+                 <option value="Cameroon">Cameroon</option>
+                 <option value="Canada">Canada</option>
+                 <option value="Cape Verde">Cape Verde</option>
+                 <option value="Cayman Islands">Cayman Islands</option>
+                 <option value="Central African Republic">Central African Republic</option>
+                 <option value="Chad">Chad</option>
+                 <option value="Chile">Chile</option>
+                 <option value="China">China</option>         
+                            </select>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--  -->
+                                
+                                <div class="row">
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Phone Number*" name="name">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-user-circle"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Withdrawal Reason*" name="email">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!--  -->
+                                <div class="row">
+                                    <div class="col-xl-12">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Amount of Withdrawal*" name="name">
+                                            
+                                        </div>
+                                    </div>
+                                    </div>
+                                <!--  -->
+
+                                
+                                <div class="row">
+
+                                <div>
+                                    <h5>Bank Details For Bank Withdrawal<br><br></h5>
+                                </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Bank Account name*" name="name">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-user-circle"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Bank Name*" name="email">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--  -->
+                                <div class="row">
+
+                                
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Bank Account Number*" name="name">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="bank IFSC Code*" name="email">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+
+                                <div>
+                                    <h5>Skrill Details For Skrill Withdrawal<br><br></h5>
+                                </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Skill ID*" name="name">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-user-circle"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Amount In USD" name="email">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                <div>
+                                    <h5>Neteller Details For Neteller Withdrawal<br><br></h5>
+                                </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="text" placeholder="Neteller ID*" name="name">
+                                            <div class="comment-form__icon">
+                                                <i class="far fa-user-circle"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6">
+                                        <div class="comment-form__input-box">
+                                            <input type="email" placeholder="Amount In USD*" name="email">
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+
+                                <button name="button" type="button" id="withdrawal-btn"><b>Submit</b></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</section>
 
         <section class="faqs-page">
             <div class="container">
@@ -169,7 +374,7 @@ Wire transfer may take up to two business with the US and five business days.
                                 </div>
                                 <div class="accrodion-content" style="display: none;">
                                     <div class="inner">
-                                        <p>Yes, your payment is secure. TradeFX.com does not process your payment, it is processed by the 3rd party payment gateway (Paypal, Skrill or WebMoney). Therefore, we don’t (and cannot) keep your payment secured details such as password or card information.</p>
+                                        <p>Yes, your payment is secure. WTI Primes does not process your payment, it is processed by the 3rd party payment gateway (Paypal, Skrill or WebMoney). Therefore, we don’t (and cannot) keep your payment secured details such as password or card information.</p>
                                         <br>
                                         <p>After you select payment method, our website will redirected you to appropriate payment gateway. Please check and make sure that there is a green lock icon on the address bar of the browser with https protocol, it indicates that you are in a secure encrypted SSL page.</p>
                                     </div>
