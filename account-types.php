@@ -21,14 +21,51 @@
         <div class="container">
           <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
-              <li><a href="index.php">Home</a></li>
+              <li><a href="index.html">Home</a></li>
               <li><span>/</span></li>
-              <li>Accounts</li>
+              <li>Account</li>
             </ul>
             <h2>Account Types</h2>
           </div>
         </div>
       </section>
+      <section class="welcome-one">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome-one__left">
+                        <div class="welcome-one__img-box">
+                            <div class="welcome-one__img-1">
+                                <img src="assets/images/resources/welcome-1-img-1.jpg" alt="" height="390">
+                            </div>
+                            <!-- <div class="welcome-one__img-2">
+                                <img src="assets/images/resources/welcome-1-img-2.jpg" alt="">
+                            </div> -->
+                            <a href="https://www.youtube.com/watch?v=i9E_Blai8vk" class="welcome-one__video-btn video-popup">
+                                <div class="welcome-one__video-btn-icon">
+                                    <i class="fa fa-play"></i>
+                                    <span class="ripple"></span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome-one__right">
+                        <h2 class="welcome-one__title">Account comparison</h2>
+                        <p class="welcome-one__text">Zero commission, one-click trading, 24/5 client support, powerful analysis tools and competitive prices on a range of CFD markets are some of the benefits that come with an WTI Primes trading account.</p>
+                       
+                        <div class="welcome-one__progress">
+                          <a href="open-an-account.php" class="thm-btn">Open An Account</a>
+                          <a href="contact-us.php" class="thm-btn cta-two__btn">Contact Us</a>
+                        </div>
+                       
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
       <section class="two-boxes" style="padding: 110px 0">
         <div class="container">
           <div class="section-title text-center">
@@ -68,7 +105,7 @@
                   <div class="two-boxes__content">
                     <h3 class="two-boxes__title">Demo Trading Accounts</h3>
                     <p class="two-boxes__text">
-                      We offer MICRO/PRO/VIP accounts in demo formats as a
+                      We offer CLASSIC/PRO/VIP accounts in demo formats as a
                       perfect way to experiment with different strategies and
                       practice under real market conditions. These demo accounts
                       are funded with virtual cash, meaning you can prepare
@@ -98,7 +135,7 @@
                   <div class="option">
                     <ul>
                       <li>
-                        <i class="fas fa-check"></i> Minimum deposit - 100*
+                        <i class="fas fa-check"></i> Minimum deposit - 50*
                       </li>
                       <li><i class="fas fa-check"></i> Available Base Currencies - USD,EUR,GBP,ZAR</li>
                       <li><i class="fas fa-check"></i> Spreads From - 1.6 pips 
@@ -107,7 +144,7 @@
                       <li><i class="fas fa-check"></i> Max Leverage 1:500</li>
                     </ul>
                   </div>
-                  <a href="#">Join Now</a>
+                  <a href="contact-us.php">Join Now</a>
                 </div>
               </div>
               <div class="col-sm-4">
@@ -133,8 +170,9 @@
                       <li><i class="fas fa-check"></i> Max Leverage 1:500</li>
                     </ul>
                   </div>
-                  <a href="#">Join Now</a>
+                  <a href="contact-us.php">Create Account</a>
                 </div>
+
               </div>
               <div class="col-sm-4">
                 <div class="price-card text-center">
@@ -148,7 +186,7 @@
                   <div class="option">
                     <ul>
                       <li>
-                        <i class="fas fa-check"></i> Minimum Balance - 100*
+                        <i class="fas fa-check"></i> Minimum Balance - 500*
                       </li>
                       <li><i class="fas fa-check"></i> Available Base Currencies - USD,EUR,GBP,ZAR</li>
                       <li><i class="fas fa-check"></i> Spreads From - 0.0 pips 
@@ -156,7 +194,7 @@
                       <li><i class="fas fa-check"></i> Max Leverage 1:500</li>
                     </ul>
                   </div>
-                  <a href="#">Join Now</a>
+                  <a href="contact-us.php">Join Now</a>
                 </div>
               </div>
             </div>
@@ -207,10 +245,10 @@
                 <td >
                     commission
                 </td>
-                <td >$ 0</td>
+                <td >0</td>
                
-                <td >$ 40</td>
-                <td >$ 50
+                <td >0</td>
+                <td >0
                   
                 </td>
               </tr>
@@ -251,10 +289,10 @@
                 <td >
                     account currency
                 </td>
-                <td >USD, EUR,GBP,ZAR	</td>
+                <td >USD, EUR	</td>
                
-                <td >USD, EUR,GBP,ZAR	</td>
-                <td >USD, EUR,GBP,ZAR		
+                <td >USD, EUR	</td>
+                <td >USD, EUR		
                   
                 </td>
               </tr>
@@ -313,29 +351,6 @@
                   
                 </td>
               </tr>
-              <tr>
-                <td >
-                Platforms available	
-                </td>
-                <td >MT4, MT5, fxTrade	</td>
-               
-                <td >MT5, fxTrade	</td>
-                <td >MT5, fxTrade		
-                  
-                </td>
-              </tr>
-              <tr>
-                <td >
-                Suitable for		
-                </td>
-                <td >All traders		</td>
-               
-                <td >High volume traders	</td>
-                <td >High volume traders		
-                  
-                </td>
-              </tr>
-
             </tbody>
           </table>
         </div>
@@ -343,103 +358,28 @@
       </section>
 
 
-      <section class="cta-one">
-            <div class="cta-one-bg" style="
-            background-image: url(assets/images/backgrounds/cta-one-bg.png);
-          "></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="cta-one__inner row">
-                            <div class="cta-one__left col-lg-8">
-                                <h2 class="cta-one__title">
-                                    Get in Touch with Us
-                                </h2>
-                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
-                            </div>
-                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
-                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+ 
       
     </div>
-    <div class="mobile-nav__wrapper">
-      <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-      <div class="mobile-nav__content">
-        <span class="mobile-nav__close mobile-nav__toggler"
-          ><i class="fa fa-times"></i
-        ></span>
-        <div class="logo-box">
-          <a href="index.php" aria-label="logo image"
-            ><img src="assets/images/logo-1.png" width="155" alt=""
-          /></a>
-        </div>
-        <div class="mobile-nav__container"></div>
-        <ul class="mobile-nav__contact list-unstyled">
-          <li>
-            <i class="fa fa-envelope"></i>
-            <a href="mailto:needhelp@packageName__.com">needhelp@aivons.com</a>
-          </li>
-          <li>
-            <i class="fa fa-phone-alt"></i>
-            <a href="tel:666-888-0000">666 888 0000</a>
-          </li>
-        </ul>
-        <div class="mobile-nav__top">
-          <div class="mobile-nav__social">
-            <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-facebook-square"></a>
-            <a href="#" class="fab fa-pinterest-p"></a>
-            <a href="#" class="fab fa-instagram"></a>
+    <section class="cta-one">
+      <div class="cta-one-bg" style="background-image: url(assets/images/backgrounds/cta-one-bg.png);"></div>
+      <div class="container">
+          <div class="row">
+              <div class="col-xl-12">
+                  <div class="cta-one__inner row">
+                      <div class="cta-one__left col-lg-8">
+                          <h2 class="cta-one__title">
+                              Get in Touch with Us
+                          </h2>
+                          <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
+                      </div>
+                      <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                          <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
+                      </div>
+                  </div>
+              </div>
           </div>
-        </div>
       </div>
-    </div>
-    <div class="search-popup">
-      <div class="search-popup__overlay search-toggler"></div>
-      <div class="search-popup__content">
-        <form action="#">
-          <label for="search" class="sr-only">search here</label>
-          <input type="text" id="search" placeholder="Search Here..." />
-          <button type="submit" aria-label="search submit" class="thm-btn">
-            <i class="icon-magnifying-glass"></i>
-          </button>
-        </form>
-      </div>
-    </div>
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"
-      ><i class="fa fa-angle-up"></i
-    ></a>
-    <script src="assets/vendors/jquery/jquery-3.5.1.min.js"></script>
-    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
-    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
-    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
-    <script src="assets/vendors/odometer/odometer.min.js"></script>
-    <script src="assets/vendors/swiper/swiper.min.js"></script>
-    <script src="assets/vendors/tiny-slider/tiny-slider.min.js"></script>
-    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
-    <script src="assets/vendors/wow/wow.js"></script>
-    <script src="assets/vendors/isotope/isotope.js"></script>
-    <script src="assets/vendors/countdown/countdown.min.js"></script>
-    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
-    <script src="assets/vendors/twentytwenty/twentytwenty.js"></script>
-    <script src="assets/vendors/twentytwenty/jquery.event.move.js"></script>
-    <script src="assets/vendors/bxslider/js/jquery.bxslider.min.js"></script>
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyATY4Rxc8jNvDpsK8ZetC7JyN4PFVYGCGM"></script>
-    <script src="assets/js/aivons.js"></script>
-    <script src="../../cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js"></script>
-    <script src="assets/js/jQuery.style.switcher.min.js"></script>
-    <script src="assets/js/lang.js"></script>
-    <script src="../../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit"></script>
-    <script src="assets/js/color-switcher.js"></script>
+  </section>
   
     <?php include('footer.php') ?> 
