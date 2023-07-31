@@ -172,7 +172,6 @@
             </div>
         </div>
     </section>
-<<<<<<< HEAD
     <section class="cta-one">
             <div class="cta-one-bg" style="
             background-image: url(assets/images/backgrounds/cta-one-bg.png);
@@ -195,9 +194,6 @@
                 </div>
             </div>
         </section>
-=======
-
->>>>>>> 6d657bcb4a0649ca66b50ed55ecb65c59435435c
 </div>
 
 <?php include("footer.php") ?>
