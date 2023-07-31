@@ -3,6 +3,9 @@
     .financial-advice__box .tab-btns .tab-btn {
         max-width: 90px;
     }
+    .finalcial-advice__list-box-title {
+        margin-bottom: 5px;
+    }
 </style>
 <div class="preloader">
     <div class="preloader__image"></div>
