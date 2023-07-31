@@ -182,11 +182,7 @@
                             <h2 class="real-world__title">
                                 <a >Veteran Expertise
                             </h2>
-<<<<<<< HEAD
-                           <p>WTI Prime team consists of trading veterans with a deep, first-hand understanding of markets</p>
-=======
-                           <p style="color:aliceblue">WTI Prime Primes team consists of trading veterans with a deep, first-hand understanding of markets</p>
->>>>>>> 65f133c18c2d5ae5379557aa17847907525f0466
+                           <p style="color:aliceblue">WTI Primes team consists of trading veterans with a deep, first-hand understanding of markets</p>
                             <div class="real-world__icon-box">
                                 <span class="icon-report"></span>
                             </div>
