@@ -9380,3 +9380,7 @@ body.boxed-wrapper {
 .industriews_logo01 {
     color:  #019CDE;
 }
+.cta-two__btn{
+    background-color: var(--thm-black);
+    color: white;
+}
