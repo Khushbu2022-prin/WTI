@@ -63,7 +63,7 @@
                                         <div class="comment-form__input-box">
                                             <input type="text" placeholder="Email ID*" name="name">
                                             <div class="comment-form__icon">
-                                                <i class="far fa-user-circle"></i>
+                                                <i class="far fa fa-envelope"></i>
                                             </div>
                                         </div>
                                     </div>
@@ -128,7 +128,7 @@
                                         <div class="comment-form__input-box">
                                             <input type="text" placeholder="Phone Number*" name="name">
                                             <div class="comment-form__icon">
-                                                <i class="far fa-user-circle"></i>
+                                                <i class="fa fa-phone"></i>
                                             </div>
                                         </div>
                                     </div>
@@ -160,9 +160,7 @@
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
                                             <input type="text" placeholder="Bank Account name*" name="name">
-                                            <div class="comment-form__icon">
-                                                <i class="far fa-user-circle"></i>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
@@ -198,9 +196,7 @@
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
                                             <input type="text" placeholder="Skill ID*" name="name">
-                                            <div class="comment-form__icon">
-                                                <i class="far fa-user-circle"></i>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
@@ -218,9 +214,7 @@
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
                                             <input type="text" placeholder="Neteller ID*" name="name">
-                                            <div class="comment-form__icon">
-                                                <i class="far fa-user-circle"></i>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
