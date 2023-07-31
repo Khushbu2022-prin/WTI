@@ -62,7 +62,7 @@
                         MT5's strategy tester is a valuable tool to fine-tune your trading strategies. By backtesting against historical data, you can gauge the performance of your strategies and optimize them for better results.</p>
                         </div>
                        
-                        <div class="welcome-one__big-text">WTI Prime</div>
+                        <div class="welcome-one__big-text">WTI Primes</div>
                     </div>
                 </div>
             </div>

@@ -160,7 +160,7 @@
                                 <a >Multi-Asset  
                                 Platform </a>
                             </h2>
-                            <p>Trade over 10,000 instruments covering stocks, crypto, forex, commodities and more</p>
+                            <p style="color:aliceblue">Trade over 10,000 instruments covering stocks, crypto, forex, commodities and more</p>
                             <div class="real-world__icon-box">
                                 <span class="icon-wealth"></span>
                             </div>
@@ -171,7 +171,7 @@
                             <h2 class="real-world__title">
                                 <a >Top Shelf Trading Environment </a>
                             </h2>
-                            <p>Enjoy top-shelf trading conditions, with costs that beat 80% of our peers</p>
+                            <p style="color:aliceblue">Enjoy top-shelf trading conditions, with costs that beat 80% of our peers</p>
                             <div class="real-world__icon-box">
                                 <span class="icon-data-analytics"></span>
                             </div>
@@ -182,7 +182,11 @@
                             <h2 class="real-world__title">
                                 <a >Veteran Expertise
                             </h2>
+<<<<<<< HEAD
                            <p>WTI Prime team consists of trading veterans with a deep, first-hand understanding of markets</p>
+=======
+                           <p style="color:aliceblue">WTI Prime Primes team consists of trading veterans with a deep, first-hand understanding of markets</p>
+>>>>>>> 65f133c18c2d5ae5379557aa17847907525f0466
                             <div class="real-world__icon-box">
                                 <span class="icon-report"></span>
                             </div>
@@ -197,7 +201,7 @@
                             <h2 class="real-world__title">
                                 <a >Experience-Driven Innovation </a>
                             </h2>
-                            <p>WTI Prime Markets product developers aren’t just technical experts – they're traders who’ve been in the trenches themselves</p>
+                            <p style="color:aliceblue">WTI Prime Markets product developers aren’t just technical experts – they're traders who’ve been in the trenches themselves</p>
                             <div class="real-world__icon-box">
                                 <span class="icon-wealth"></span>
                             </div>
@@ -208,7 +212,8 @@
                             <h2 class="real-world__title">
                                 <a >Advanced Trading Tools</a>
                             </h2>
-                            <p>Cutting-edge trading tools developed by an in-house team to drive the success of traders at all levels</p>
+                            <p style="color:aliceblue">Cutting-edge trading tools developed by an in-house team to drive the success of traders at all levels</p>
+                            <br>
                             <div class="real-world__icon-box">
                                 <span class="icon-data-analytics"></span>
                             </div>
@@ -219,7 +224,8 @@
                             <h2 class="real-world__title">
                                 <a >Fully Regulated Brokerage</a>
                             </h2>
-                           <p>We’re licensed and fully compliant across multiple jurisdictions to ensure the highest levels of integrity</p>
+                           <p style="color:aliceblue">We’re licensed and fully compliant across multiple jurisdictions to ensure the highest levels of integrity</p>
+                           <br>
                             <div class="real-world__icon-box">
                                 <span class="icon-report"></span>
                             </div>
