@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="about__right">
-                        <h2 class="about__title">Why Choose WTI Prime's</h2>
+                        <h2 class="about__title">Why Choose WTI Primes</h2>
                         <div class="about__icon-box">
                             <div class="about__icon">
                                 <span class="icon-data-analytics"></span>
