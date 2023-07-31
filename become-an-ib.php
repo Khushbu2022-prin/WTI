@@ -159,14 +159,14 @@
                 <div class="row">
                     <div class="col-xl-12 col-lg-12">
                         <div class="message-box__right">
-                            <form action="https://layerdrops.com/aivons/assets/inc/sendemail.php" class="comment-one__form contact-form-validated"
+                            <form action="become_an_ib_form.php" class="comment-one__form contact-form-validated"
                                 novalidate="novalidate">
                                 <div class="row">
                                     <div class="col-xl-12">
                                         <div class="comment-form__input-box">
                                             <input type="text" placeholder="Your name" name="name">
                                             <div class="comment-form__icon">
-                                                <i class="far fa-user-circle"></i>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -174,25 +174,25 @@
                                         <div class="comment-form__input-box">
                                             <input type="email" placeholder="Email Address" name="email">
                                             <div class="comment-form__icon">
-                                                <i class="far fa-envelope"></i>
+                                                
                                             </div>
                                         </div>
                                     </div>
                              
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="email" placeholder="Phone No." name="phone">
+                                            <input type="number" placeholder="Phone No." name="phone">
                                             <div class="comment-form__icon">
-                                                <i class="far fa-phone"></i>
+                                               
                                             </div>
                                         </div>
                                     </div>
                               
                                 <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="email" placeholder="Skype ID" name="skype">
+                                            <input type="text" placeholder="Skype ID" name="skype">
                                             <div class="comment-form__icon">
-                                                <i class="far fa-skype"></i>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -200,7 +200,7 @@
                                         <div class="comment-form__input-box">
                                             <input type="text" placeholder="Your Subject" name="subject">
                                             <div class="comment-form__icon">
-                                                <i class="far fa-envelope"></i>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -210,10 +210,10 @@
                                         <div class="comment-form__input-box">
                                             <textarea name="subject" placeholder="Write Message"></textarea>
                                             <div class="comment-form__icon contact-expert__icon-comment">
-                                                <i class="far fa-comment"></i>
+                                                
                                             </div>
                                         </div>
-                                        <button type="submit" class="thm-btn comment-form__btn">Send a message</button>
+                                        <button name="submit" type="submit" class="thm-btn comment-form__btn">Send a message</button>
                                     </div>
                                 </div>
                             </form>

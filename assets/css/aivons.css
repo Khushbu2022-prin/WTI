@@ -7351,7 +7351,9 @@ body.boxed-wrapper {
 }
 
 .comment-form__input-box input[type="text"],
-.comment-form__input-box input[type="email"] {
+.comment-form__input-box input[type="email"],
+.comment-form__input-box input[type="number"],
+.comment-form__input-box input[type="file"]{
     height: 70px;
     width: 100%;
     border: none;
