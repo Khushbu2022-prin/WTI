@@ -3,7 +3,7 @@ $menuactive = basename($_SERVER['PHP_SELF']);
 
 switch ($menuactive) {
     case 'index.php':
-        $title = "Home || WTI Primes";
+        $title = "Home || WTI Prime Primes";
         break;
 
     case 'why-us.php':

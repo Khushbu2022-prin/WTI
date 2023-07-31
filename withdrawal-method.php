@@ -12,7 +12,7 @@
         <div class="container">
           <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li><span>/</span></li>
               <li>Accounts</li>
             </ul>
@@ -20,7 +20,7 @@
           </div>
         </div>
       </section>
-<!--  -->
+
 <section>
         <div class="container" style="padding-top: 70px;">
             <div class="welcome-one__right">
@@ -28,14 +28,13 @@
                 <p class="welcome-one__text">
                 When it comes to forex websites, providing a variety of withdrawal methods is just as important as offering diverse deposit options.<br>
                 Traders need seamless and efficient ways to access their funds.<br>
-                At WTI Primes, we prioritize our traders' convenience and satisfaction.<br>We understand that accessing your funds promptly is crucial for your trading experience.<br>That's why we offer a range of swift and secure withdrawal methods to suit your needs.
+                At WTI Prime Primes, we prioritize our traders' convenience and satisfaction.<br>We understand that accessing your funds promptly is crucial for your trading experience.<br>That's why we offer a range of swift and secure withdrawal methods to suit your needs.
                 </p>
-            </div>
-        </div>
-    </section>
-    <!--  -->
 
-<section class="faqs-page">
+            </div>
+        </section>
+
+        <section class="faqs-page">
             <div class="container">
                 <div class="section-title text-center">
                     <h2 class="section-title__title">You've Got Questions?</h2>
@@ -218,5 +217,26 @@ Wire transfer may take up to two business with the US and five business days.
                 </div>
             </div>
         </section>
-
+        <section class="cta-one">
+            <div class="cta-one-bg" style="
+            background-image: url(assets/images/backgrounds/cta-one-bg.png);
+          "></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="cta-one__inner row">
+                            <div class="cta-one__left col-lg-8">
+                                <h2 class="cta-one__title">
+                                    Get in Touch with Us
+                                </h2>
+                                <p style="color: aliceblue;"> Feel free to contact us through any of the channels below, and we'll respond to your inquiry as soon as possible.</p>
+                            </div>
+                            <div class="cta-one__right col-lg-4" style="display: flex; justify-content: end;">
+                                <a href="contact-us.php" class="thm-btn cta-one__btn">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 <?php include ("footer.php") ?>
