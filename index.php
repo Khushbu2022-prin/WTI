@@ -79,10 +79,7 @@
                                 <div class="col-lg-10">
                                     <div class="main-slider__content">
                                         <p>welcome to WTI Prime </p>
-                                        <h2>
-                                            Trading 
-                                            Platform for 
-                                            real traders
+                                        <h2>Trading <br> Platform for <br> real traders
                                         </h2>
                                         <a href="contact-us.php" class="thm-btn">Are you one?</a>
                                     </div>
